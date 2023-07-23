@@ -1,0 +1,29 @@
+.card{
+    display:flex ;
+    flex-wrap:wrap;
+    height:auto;
+    justify-content: space-around;
+    text-align: left;
+    background:#ff00ff00;
+    min-width:20px;
+    max-width:20vw;
+    padding:0.5% 0.5% 0% 0.5%;
+    margin:0% 0.5%;
+    cursor: pointer;
+    font-size: 2vh;
+    flex-basis: 1;
+}
+
+.cardimage {
+    max-height:18vh;
+    max-width:10vw;
+    border-radius: 5%;
+    border:2px solid yellow;
+}
+
+p:hover {
+    color: orangered;
+}
+
+
+

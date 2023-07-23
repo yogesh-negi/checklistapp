@@ -1,0 +1,9 @@
+body {
+background-image:url("./Components/images/background.webp");
+background-repeat: no-repeat;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+background-size: fill;
+background-repeat:repeat-x ;
+background-color:#d141eef6;
+overflow: hidden;
+}

@@ -1,0 +1,6414 @@
+{ 
+  "LSF001":{
+    "personalinfo":{
+      "dp": "https://mail.google.com/mail/u/0?ui=2&ik=f8a262f847&attid=0.1&permmsgid=msg-f:1752796983400214444&th=18532f91d6f22fac&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ_8yI78zJvNnfE9_PDgxkM281v9eBBBq9rwSgjJma6al0PioUHcdveRmlJJ8Iv_E8nLth2W67ExZMRa3QOp11swwR7_thiMgme5TY4GwcR1FLKYGRnQVMYf2JI&disp=emb&realattid=ii_lbx5yhpx0",
+      "email": "coordinator@chukde.in",
+      "firstname": "Khushboo",
+      "lastname": "Kohli",
+      "password": "142536",
+      "position": "Sales Coordinator",
+      "user": "LSF001"
+    },
+    "definedtasks": [
+      {
+        "remarks": "",
+        "status": "",
+        "task": "UPDATE TAX ORDER OF CHUKDE",
+        "taskdate": "12-Dec-2022",
+        "taskid": "01",
+        "taskinterval": "Daily",
+        "userid": "LSF001"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "MAIL PURCHASE ORDER",
+        "taskdate": "12-Dec-2022",
+        "taskid": "02",
+        "taskinterval": "Daily",
+        "userid": "LSF001"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "MISMATCH PRICING MAIL",
+        "taskdate": "12-Dec-2022",
+        "taskid": "03",
+        "taskinterval": "Daily",
+        "userid": "LSF001"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "FOLLOW UP PRICING MISMATCH EMAIL",
+        "taskdate": "12-Dec-2022",
+        "taskid": "04",
+        "taskinterval": "Daily",
+        "userid": "LSF001"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "SEND SALE REPORTS",
+        "taskdate": "12-Dec-2022",
+        "taskid": "05",
+        "taskinterval": "Weekly",
+        "userid": "LSF001"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "UPDATE MRP SHEET ALL PARTY",
+        "taskdate": "4-Dec-2022",
+        "taskid": "06",
+        "taskinterval": "Monthly",
+        "userid": "LSF001"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "UPDATE GOODS TO BE MANUFACTURE SHEET DAILY",
+        "taskdate": "12-Dec-2022",
+        "taskid": "07",
+        "taskinterval": "Daily",
+        "userid": "LSF001"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "UPDATE NEW ORDER TO COLLECTION",
+        "taskdate": "12-Dec-2022",
+        "taskid": "08",
+        "taskinterval": "Daily",
+        "userid": "LSF001"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "MAKE HUSSLE SHEET",
+        "taskdate": "12-Dec-2022",
+        "taskid": "09",
+        "taskinterval": "Daily",
+        "userid": "LSF001"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "REJECTED MATERIAL REPORT",
+        "taskdate": "16-Dec-2022",
+        "taskid": "10",
+        "taskinterval": "Weekly",
+        "userid": "LSF001"
+      }
+    ],
+    "dailytaskstatus":{}
+},
+"LSF002":{
+"personalinfo":{
+  "dp": "https://mail.google.com/mail/u/0?ui=2&ik=f8a262f847&attid=0.4&permmsgid=msg-a:r-5067158567362732291&th=185341324b2c042d&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ__D2UKClSNhC7exQeGUc-suB5C2UkaAfI_YqDUJM8qSsCXN6xLS_PNXgXce3pDfba7sQmstW6X9l1Xup5qJH9qmOLFIPQY2F1s-UepjH92zs4QPlIjap3Ecsg&disp=emb&realattid=185341308f9332bef381",
+  "email": "coordinator@chukde.in",
+  "firstname": "Devender",
+  "lastname": "-",
+  "password": "362514",
+  "position": "Sales Coordinator",
+  "user": "LSF002"
+},
+"definedtasks":[
+  {
+    "remarks": "",
+    "status": "",
+    "task": "UPDATED TAX ORDER / SALE ORDER (PVT)",
+    "taskdate": "12-Dec-2022",
+    "taskid": "01",
+    "taskinterval": "Daily",
+    "userid": "LSF002"
+  },
+  {
+    "remarks": "",
+    "status": "",
+    "task": "CREATE STOCK FILE OF PVT LABLE",
+    "taskdate": "12-Dec-2022",
+    "taskid": "02",
+    "taskinterval": "Daily",
+    "userid": "LSF002"
+  },
+  {
+    "remarks": "",
+    "status": "",
+    "task": "WHATS APP PURCHASE ORDER",
+    "taskdate": "12-Dec-2022",
+    "taskid": "03",
+    "taskinterval": "Daily",
+    "userid": "LSF002"
+  },
+  {
+    "remarks": "",
+    "status": "",
+    "task": "UPDATE PURCHASE ORDER IN PURCHASE FMS",
+    "taskdate": "12-Dec-2022",
+    "taskid": "04",
+    "taskinterval": "Daily",
+    "userid": "LSF002"
+  },
+  {
+    "remarks": "",
+    "status": "",
+    "task": "STOCK FILE UPDATE IN DOMESTIC SHEET",
+    "taskdate": "12-Dec-2022",
+    "taskid": "06",
+    "taskinterval": "Daily",
+    "userid": "LSF002"
+  },
+  {
+    "remarks": "",
+    "status": "",
+    "task": "SEND MISMATCH PRICE MAIL TO PARTY",
+    "taskdate": "12-Dec-2022",
+    "taskid": "07",
+    "taskinterval": "Daily",
+    "userid": "LSF002"
+  },
+  {
+    "remarks": "",
+    "status": "",
+    "task": "MISMATCH PRICE MAIL FOLLOW UP",
+    "taskdate": "12-Dec-2022",
+    "taskid": "08",
+    "taskinterval": "Daily",
+    "userid": "LSF002"
+  }
+],
+"dailytaskstatus":{}
+},
+"LSF003":{
+  "personalinfo":{
+    "dp": "https://mail.google.com/mail/u/0?ui=2&ik=f8a262f847&attid=0.1&permmsgid=msg-f:1739314124280864189&th=182348fb12949dbd&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ_twit9FtKcP_gYiStTAPN-_jq59IMKKUn6dXYFGv9zJcuYCqigQ4cvIH7qJncoLVvd06-FYG8GZx_kxOa8C14DHbUaxvLqBKrXIVVIO-Khpv3QKLRH4q6QG7Y&disp=emb&realattid=ii_l60efxb81",
+    "email": "gunjan.chukde@gmail.com",
+    "firstname": "Gunjan",
+    "lastname": "Bhardwaj",
+    "password": "526341",
+    "position": "Account Executive",
+    "user": "LSF003"
+  },
+  "definedtasks":[
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Investment sheets Updation of management",
+      "taskdate": "10-Dec-2022",
+      "taskid": "01",
+      "taskinterval": "Monthly",
+      "userid": "LSF003"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Send mail list of Fixed Asset register to Manjesh sir, Narendra ji, Deepak sir & Rajat sir",
+      "taskdate": "15-Dec-2022",
+      "taskid": "02",
+      "taskinterval": "Quaterly",
+      "userid": "LSF003"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Enter all invoices received from SS for salary and TA+DA.",
+      "taskdate": "09-Dec-2022",
+      "taskid": "03",
+      "taskinterval": "Fortnightly",
+      "userid": "LSF003"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Verification of negative stock",
+      "taskdate": "13-Dec-2022",
+      "taskid": "04",
+      "taskinterval": "Weekly",
+      "userid": "LSF003"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Check Manufacturing Entries",
+      "taskdate": "12-Dec-2022",
+      "taskid": "06",
+      "taskinterval": "Daily",
+      "userid": "LSF003"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Check Branch Transfer Out & In Entries",
+      "taskdate": "12-Dec-2022",
+      "taskid": "07",
+      "taskinterval": "Daily",
+      "userid": "LSF003"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "TDS/TCS (GST) Deducted by Parties Reconciliation with GST Portal",
+      "taskdate": "15-Dec-2022",
+      "taskid": "08",
+      "taskinterval": "Monthly",
+      "userid": "LSF003"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "PAY BILL ROSHANAR :- VIKRAM SIR, RAJAT SIR, DEEPAK SIR",
+      "taskdate": "25-Dec-2022",
+      "taskid": "09",
+      "taskinterval": "Monthly",
+      "userid": "LSF003"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Commission Payment to Agent (MT sales)",
+      "taskdate": "25-Dec-2022",
+      "taskid": "10",
+      "taskinterval": "Monthly",
+      "userid": "LSF003"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Write off of lab entries",
+      "taskdate": "30-Dec-2022",
+      "taskid": "11",
+      "taskinterval": "Monthly",
+      "userid": "LSF003"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Salary of raja ram (Mali) LSF",
+      "taskdate": "07-Dec-2022",
+      "taskid": "12",
+      "taskinterval": "Monthly",
+      "userid": "LSF003"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Salary of Rajender (Pandit ji) Lsf",
+      "taskdate": "07-Dec-2022",
+      "taskid": "13",
+      "taskinterval": "Monthly",
+      "userid": "LSF003"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Lsf & uf & SRE reconsilation",
+      "taskdate": "02-Dec-2022",
+      "taskid": "14",
+      "taskinterval": "Monthly",
+      "userid": "LSF003"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Posting of Commission, TA/DA of staff in tally",
+      "taskdate": "17-Dec-2022",
+      "taskid": "15",
+      "taskinterval": "Monthly",
+      "userid": "LSF003"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "On Every Saturday updating the marketing and Business promotion in the sheet and sending the same to management",
+      "taskdate": "08-Dec-2022",
+      "taskid": "16",
+      "taskinterval": "Monthly",
+      "userid": "LSF003"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Posting of gst input/Rcm entry - LSF haryana",
+      "taskdate": "22-Dec-2022",
+      "taskid": "15",
+      "taskinterval": "Monthly",
+      "userid": "LSF003"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Inter Branch Sales Reconciltion",
+      "taskdate": "14-Dec-2022",
+      "taskid": "16",
+      "taskinterval": "Weekly",
+      "userid": "LSF003"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Personal Books Update",
+      "taskdate": "10-Dec-2022",
+      "taskid": "17",
+      "taskinterval": "Monthly",
+      "userid": "LSF003"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Check Credit Card Entries in the Books",
+      "taskdate": "09-Dec-2022",
+      "taskid": "18",
+      "taskinterval": "Monthly",
+      "userid": "LSF003"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Check GST Cash/Credit Ledger Balances with GST Portal",
+      "taskdate": "22-Dec-2022",
+      "taskid": "19",
+      "taskinterval": "Monthly",
+      "userid": "LSF003"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Check Electricity Bill Entries in the Books",
+      "taskdate": "09-Dec-2022",
+      "taskid": "20",
+      "taskinterval": "Monthly",
+      "userid": "LSF003"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Check Interest on Loan Enries in the Books",
+      "taskdate": "09-Dec-2022",
+      "taskid": "21",
+      "taskinterval": "Monthly",
+      "userid": "LSF003"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Check Loan Account Closing Balance should be tallied with Loan Schedule",
+      "taskdate": "09-Dec-2022",
+      "taskid": "22",
+      "taskinterval": "Monthly",
+      "userid": "LSF003"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Check Entries of TOT, Any deductions from MT Parties in the Books",
+      "taskdate": "09-Dec-2022",
+      "taskid": "23",
+      "taskinterval": "Monthly",
+      "userid": "LSF003"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Check Online Sales Expenses should be booked on a Monthly Basis.",
+      "taskdate": "09-Dec-2022",
+      "taskid": "24",
+      "taskinterval": "Monthly",
+      "userid": "LSF003"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Check Facebook Expenses should be booked on a Monthly Basis.",
+      "taskdate": "09-Dec-2022",
+      "taskid": "25",
+      "taskinterval": "Monthly",
+      "userid": "LSF003"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Check Cash Balance on a weekly basis",
+      "taskdate": "19-Dec-2022",
+      "taskid": "25",
+      "taskinterval": "Weekly",
+      "userid": "LSF003"
+    }
+  ],
+  "dailytaskstatus":{}
+},
+"LSF004":{
+  "personalinfo":{
+    "dp": "https://mail.google.com/mail/u/0?ui=2&ik=f8a262f847&attid=0.3&permmsgid=msg-:1752796983400214444&th=18532f91d6f22fac&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-Kd622CZbt2xloTY6cYWask2Kir71eVLrdEDWbfGim3zBVnvEH-WzOqw9MuhhQj9aZUnr9P2TIaSiMsbmp0h8ltWM-9nejI-Y9TmAFND8XMD-1s4EgaAmFLZE&disp=emb&realattid=ii_lbx5yhs72",
+    "email": "delhiaccexecutive@gmail.com",
+    "firstname": "Rajan",
+    "lastname": "Malik",
+    "password": "748596",
+    "position": "Account Executive",
+    "user": "LSF004"
+  },
+  "definedtasks":[
+    {
+      "remarks": "",
+      "status": "",
+      "task": "PRICE LIST UPDATION-LSF",
+      "taskdate": "10-Dec-2022",
+      "taskid": "01",
+      "taskinterval": "Daily",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "LEDGER CREATION -LSF & RAMKAUSHAL TRADING CO.",
+      "taskdate": "15-Dec-2022",
+      "taskid": "02",
+      "taskinterval": "Daily",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "ITEM CREATION -LSF & RAMKAUSHAL TRADING CO.",
+      "taskdate": "09-Dec-2022",
+      "taskid": "03",
+      "taskinterval": "Daily",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "BOM CREATION -LSF & RAMKAUSHAL TRADING CO.",
+      "taskdate": "13-Dec-2022",
+      "taskid": "04",
+      "taskinterval": "Daily",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "PRODUCTION ENTRY-RAMKAUSHAL TRADING CO.",
+      "taskdate": "12-Dec-2022",
+      "taskid": "06",
+      "taskinterval": "Daily",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "PURCHASES BILL ENTRY-RAMKAUSHAL TRADING CO.",
+      "taskdate": "12-Dec-2022",
+      "taskid": "07",
+      "taskinterval": "Daily",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "SALES BILL MAKE FROM RAMKAUSHAL TRADING CO.",
+      "taskdate": "15-Dec-2022",
+      "taskid": "08",
+      "taskinterval": "Daily",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "SOLVE MISCELLANEOUS PROBLEMS IN TALLY",
+      "taskdate": "15-Dec-2022",
+      "taskid": "09",
+      "taskinterval": "Daily",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "SALES BILL TO MAKE-LSF",
+      "taskdate": "06-Dec-2022",
+      "taskid": "09",
+      "taskinterval": "Monthly",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "PURCHASES BILL TO COME-LSF",
+      "taskdate": "06-Dec-2022",
+      "taskid": "08",
+      "taskinterval": "Monthly",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "CHECK LEH COLD BILL",
+      "taskdate": "20-Dec-2022",
+      "taskid": "09",
+      "taskinterval": "Monthly",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "CHECK KESHAV SINGH BILL",
+      "taskdate": "5-Dec-2022",
+      "taskid": "10",
+      "taskinterval": "Monthly",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Stock Audit Mundka",
+      "taskdate": "10-Dec-2022",
+      "taskid": "11",
+      "taskinterval": "Monthly",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Reconcilation with leh cold store stock and our godown stock",
+      "taskdate": "12-Dec-2022",
+      "taskid": "12",
+      "taskinterval": "Monthly",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Customized sales report for deepak sir",
+      "taskdate": "01-Dec-2022",
+      "taskid": "13",
+      "taskinterval": "Monthly",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "whatsapp sales Report to Rajat sir and Vikram Sir.",
+      "taskdate": "19-Dec-2022",
+      "taskid": "14",
+      "taskinterval": "Weekly",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Nagaur Purchase Book send to Rathi Sir  5th of every Month for check the all purchase booked or not",
+      "taskdate": "5-Dec-2022",
+      "taskid": "15",
+      "taskinterval": "Monthly",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Nagaur Manufacturing register send to Vishal Sir Saturday of every week to check all manufacturing entry entered or not in Tally",
+      "taskdate": "10-Dec-2022",
+      "taskid": "16",
+      "taskinterval": "Weekly",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Nagaur Raw Material  register send to Kishan or Krishna Sir Saturday of every week to check that the quantity of raw material in hand and in books is same or not",
+      "taskdate": "10-Dec-2022",
+      "taskid": "17",
+      "taskinterval": "Monthly",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Nagaur Cleaned Stock  register send to Kishan or krishna Sir 10th and 25th of every month to check that the quantity of Cleaned stock  in hand and in books is same or not",
+      "taskdate": "10-Dec-2022",
+      "taskid": "18",
+      "taskinterval": "Fortnightly",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Nagaur Finished Goods register send to Kishan or Krishna Sir  Monday of every Month to check that the quantity of Finished goods stock  in hand and in books is same or not",
+      "taskdate": "19-Dec-2022",
+      "taskid": "19",
+      "taskinterval": "Weekly",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Nagaur Cash book  enter in tally on Daily basis",
+      "taskdate": "10-Dec-2022",
+      "taskid": "20",
+      "taskinterval": "Daily",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Weekly Outstanding payment of nagaur send to deepak sir of Every Monday",
+      "taskdate": "10-Dec-2022",
+      "taskid": "21",
+      "taskinterval": "Weekly",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Inward HSN Purchases & Expenses Summary",
+      "taskdate": "30-Dec-2022",
+      "taskid": "22",
+      "taskinterval": "Monthly",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Outward HSN Sales Summary",
+      "taskdate": "30-Dec-2022",
+      "taskid": "23",
+      "taskinterval": "Monthly",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Preparation of Weekly Payment RKT",
+      "taskdate": "19-Dec-2022",
+      "taskid": "24",
+      "taskinterval": "Weekly",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "GST R1 Ramkaushal",
+      "taskdate": "08-Dec-2022",
+      "taskid": "25",
+      "taskinterval": "Monthly",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "GST 2B Reco Ramkaushal",
+      "taskdate": "15-Dec-2022",
+      "taskid": "26",
+      "taskinterval": "Monthly",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Posting of gst input/Rcm entry in ramkaushal",
+      "taskdate": "22-Dec-2022",
+      "taskid": "27",
+      "taskinterval": "Monthly",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "GST R 3B Ramkaushal",
+      "taskdate": "16-Dec-2022",
+      "taskid": "28",
+      "taskinterval": "Monthly",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Reconciliation of LSF to Rankaushal Nagaur",
+      "taskdate": "10-Dec-2022",
+      "taskid": "29",
+      "taskinterval": "Monthly",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Rent OF Ramkaushal Trading Co. Nagaur",
+      "taskdate": "05-Dec-2022",
+      "taskid": "30",
+      "taskinterval": "Monthly",
+      "userid": "LSF004"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Weekly sales bill linking updation in Tally",
+      "taskdate": "17-Dec-2022",
+      "taskid": "31",
+      "taskinterval": "Weekly",
+      "userid": "LSF004"
+    }
+  ],
+  "dailytaskstatus":{}
+},
+"LSF005":{
+  "personalinfo":{
+    "dp": "",
+    "email": "Deepak.pandey@chukde.in",
+    "firstname": "Deepak",
+    "lastname": "Pandey",
+    "password": "859674",
+    "position": "Sr Accountant",
+    "user": "LSF005"
+  },
+  "definedtasks":[
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Shared detail of TA+DA on email with Anil bhardwaj and transfer the amount in account of SS. Add 18% GST in the amount.",
+      "taskdate": "2022-12-11",
+      "taskid": 1,
+      "taskinterval": "Monthly",
+      "userid": "LSF005"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "PAY MOBILE BILL HIMANI MAM :- 9810656161 and NEHA MAM :- 9891144988",
+      "taskdate": "2022-12-15",
+      "taskid": 2,
+      "taskinterval": "Monthly",
+      "userid": "LSF005"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Entering of pf/esi entry in books",
+      "taskdate": "2022-12-16",
+      "taskid": 3,
+      "taskinterval": "Monthly",
+      "userid": "LSF005"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Salary , EPF & ESIC Reco.",
+      "taskdate": "2022-12-25",
+      "taskid": 4,
+      "taskinterval": "Monthly",
+      "userid": "LSF005"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "General trade debtors reconcilation",
+      "taskdate": "2022-12-30",
+      "taskid": 5,
+      "taskinterval": "Quaterly",
+      "userid": "LSF005"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Stock statement submission of lifestyle foods Pvt. Ltd.",
+      "taskdate": "2022-12-03",
+      "taskid": 6,
+      "taskinterval": "Monthly",
+      "userid": "LSF005"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Share detail of salary on email with Anil bhardwaj and transfer the amount in account of SS. Add 18% GST in the salary amount.",
+      "taskdate": "2022-12-07",
+      "taskid": 7,
+      "taskinterval": "Monthly",
+      "userid": "LSF005"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Updation of salaries of staff and labour in books",
+      "taskdate": "2022-12-08",
+      "taskid": 8,
+      "taskinterval": "Monthly",
+      "userid": "LSF005"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Debtors Reconciliation",
+      "taskdate": "2022-12-10",
+      "taskid": 9,
+      "taskinterval": "Monthly",
+      "userid": "LSF005"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Creditors Reconciliation",
+      "taskdate": "2022-12-10",
+      "taskid": 10,
+      "taskinterval": "Monthly",
+      "userid": "LSF005"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Suspense Entries Clear",
+      "taskdate": "2022-12-12",
+      "taskid": 11,
+      "taskinterval": "Daily",
+      "userid": "LSF005"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Entering of credit notes /claims",
+      "taskdate": "2022-12-14",
+      "taskid": 12,
+      "taskinterval": "Fortnightly",
+      "userid": "LSF005"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "GST R1 LSF Haryana",
+      "taskdate": "2022-12-08",
+      "taskid": 13,
+      "taskinterval": "Monthly",
+      "userid": "LSF005"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "GST 2B Reco LSF haryana",
+      "taskdate": "2022-12-15",
+      "taskid": 14,
+      "taskinterval": "Monthly",
+      "userid": "LSF005"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "GST R 3B LSF Haryana",
+      "taskdate": "2022-12-16",
+      "taskid": 15,
+      "taskinterval": "Monthly",
+      "userid": "LSF005"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "TDS/TCS Reconcilation as per 26AS",
+      "taskdate": "2022-01-10",
+      "taskid": 16,
+      "taskinterval": "Quaterly",
+      "userid": "LSF005"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Report of cash bills generation",
+      "taskdate": "2022-12-10",
+      "taskid": 17,
+      "taskinterval": "Weekly",
+      "userid": "LSF005"
+    }
+  ]
+},
+  "LSF006":{
+    "personalinfo":{
+      "dp": "https://mail.google.com/mail/u/0?ui=2&ik=f8a262f847&attid=0.2&permmsgid=msg-f:1752796983400214444&th=18532f91d6f22fac&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9D4eEBuxf7poW0b4qSEd5xu79XY5jaFGI4ApYcnYLQE91ShyHw_VXlmTUODPThh8D4yKq5uQtfdXHjo7XRGB-jbRR8_QwWtwPAivSXkLD3GFYz_mQfNhoPkB0&disp=emb&realattid=ii_lbx5yhrf1",
+      "email": "mohd.javed@chukde.in",
+      "firstname": "Mohd. Javed",
+      "lastname": "-",
+      "password": "213131",
+      "position": "Sr Accountant",
+      "user": "LSF006"
+    },
+    "definedtasks":[
+      {
+      "remarks": "",
+      "status": "",
+      "task": "Customized sales report for deepak sir",
+      "taskdate": "2022-12-01",
+      "taskid": 1,
+      "taskinterval": "Monthly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "GT Gross Profit report",
+      "taskdate": "2022-12-01",
+      "taskid": 2,
+      "taskinterval": "Monthly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "GT Sales/Category report",
+      "taskdate": "2022-12-26",
+      "taskid": 3,
+      "taskinterval": "Monthly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Updation of all sales invoice of LSF on IFCO tokyo portal",
+      "taskdate": "2022-12-03",
+      "taskid": 4,
+      "taskinterval": "Monthly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Rent of Deepak Kumar Luthra,Shikha Luthra,Neha Luthra of Lsf",
+      "taskdate": "2022-12-01",
+      "taskid": 5,
+      "taskinterval": "Monthly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Preparation of directors remuneration",
+      "taskdate": "2022-12-01",
+      "taskid": 6,
+      "taskinterval": "Monthly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Tiwari international Reconciliation",
+      "taskdate": "2022-12-14",
+      "taskid": 7,
+      "taskinterval": "Monthly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Haldiram Commission sheet preparation",
+      "taskdate": "2022-12-15",
+      "taskid": 8,
+      "taskinterval": "Monthly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Entering of Vehicle loan Interest in book",
+      "taskdate": "2022-12-16",
+      "taskid": 9,
+      "taskinterval": "Monthly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "monthly payment of LIC",
+      "taskdate": "2022-12-01",
+      "taskid": 10,
+      "taskinterval": "Monthly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Disbursement of salary of staff and Labors",
+      "taskdate": "2022-12-07",
+      "taskid": 11,
+      "taskinterval": "Monthly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Vendor payments",
+      "taskdate": "2022-12-10",
+      "taskid": 12,
+      "taskinterval": "Fortnightly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Submission of Advance to supplier details to Vikram Sir",
+      "taskdate": "2022-12-09",
+      "taskid": 13,
+      "taskinterval": "Weekly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Weekly meeting with alka and heena on descrepency of payment",
+      "taskdate": "2022-12-09",
+      "taskid": 14,
+      "taskinterval": "Weekly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Weekly debtors sheet to modern trade & General Trade",
+      "taskdate": "2022-12-10",
+      "taskid": 15,
+      "taskinterval": "Weekly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Electricity Bill Of 3Rd Floor Prashant Vihar",
+      "taskdate": "2022-12-19",
+      "taskid": 16,
+      "taskinterval": "Monthly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "CLEAR SUSPENSE ENTRY",
+      "taskdate": "2022-12-22",
+      "taskid": 17,
+      "taskinterval": "Daily",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Submitting Creditors and Stock position to Vikram Sir",
+      "taskdate": "2022-12-15",
+      "taskid": 18,
+      "taskinterval": "Fortnightly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Bank Reconciliation",
+      "taskdate": "2022-12-22",
+      "taskid": 19,
+      "taskinterval": "Daily",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Clearance of advance paid to parties",
+      "taskdate": "2022-12-14",
+      "taskid": 20,
+      "taskinterval": "Fortnightly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Inter unit Loan Reconcilation",
+      "taskdate": "2022-12-10",
+      "taskid": 21,
+      "taskinterval": "Monthly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Pay Electricity Bill Ca No. 60027513781",
+      "taskdate": "2022-12-15",
+      "taskid": 22,
+      "taskinterval": "Monthly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Payment of credit card of vikram sir",
+      "taskdate": "2022-12-10",
+      "taskid": 23,
+      "taskinterval": "Monthly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "credit card bill of sbi bank of rajat luthra to be paid",
+      "taskdate": "2022-12-25",
+      "taskid": 24,
+      "taskinterval": "Monthly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Electricity bill of 508 factory AND BG",
+      "taskdate": "2022-12-30",
+      "taskid": 25,
+      "taskinterval": "Monthly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Salary of guards salary AND MANPOWER",
+      "taskdate": "2022-12-09",
+      "taskid": 26,
+      "taskinterval": "Monthly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "JOB WORK RETURN(ITC-04)",
+      "taskdate": "2022-04-20",
+      "taskid": 27,
+      "taskinterval": "Half-yearly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "PREPAARATION OF TDS/TCS",
+      "taskdate": "2022-12-04",
+      "taskid": 28,
+      "taskinterval": "Monthly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "PREPARATION OF TDS RETURN",
+      "taskdate": "2022-01-20",
+      "taskid": 29,
+      "taskinterval": "Quaterly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "PREPARATION OF TCS",
+      "taskdate": "2022-01-10",
+      "taskid": 30,
+      "taskinterval": "Quaterly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Telephone bill of anuradha mam",
+      "taskdate": "2022-12-20",
+      "taskid": 31,
+      "taskinterval": "Monthly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Telephone bill of Arvind Sir",
+      "taskdate": "2022-12-09",
+      "taskid": 32,
+      "taskinterval": "Monthly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "To check Mobile no updation in GT ledger",
+      "taskdate": "2022-03-30",
+      "taskid": 33,
+      "taskinterval": "Quaterly",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Generate Rent Invoice for 508 Unit",
+      "taskdate": "2022-12-01",
+      "taskid": 34,
+      "taskinterval": "Monthly",
+      "userid": "LSF006"
+    }],
+    "dailytaskstatus":{
+      "Fri Feb 10 2023":[
+      {
+        "remarks": "",
+        "status": "Done",
+        "task": "CLEAR SUSPENSE ENTRY",
+        "taskdate": "2022-12-22",
+        "taskid": 17,
+        "taskinterval": "Daily",
+        "timestamp": "2023-02-06T12:36:30.622Z",
+        "userid": "LSF006"
+      },
+      {
+        "remarks": "",
+        "status": "Done",
+        "task": "Bank Reconciliation",
+        "taskdate": "2022-12-22",
+        "taskid": 19,
+        "taskinterval": "Daily",
+        "timestamp": "2023-02-06T12:36:34.094Z",
+        "userid": "LSF006"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Submission of Advance to supplier details to Vikram Sir",
+        "taskdate": "2022-12-09",
+        "taskid": 13,
+        "taskinterval": "Weekly",
+        "userid": "LSF006"
+      },
+      {
+        "remarks": "",
+        "status": "Done",
+        "task": "Weekly meeting with alka and heena on descrepency of payment",
+        "taskdate": "2022-12-09",
+        "taskid": 14,
+        "taskinterval": "Weekly",
+        "timestamp": "2023-02-06T12:36:39.742Z",
+        "userid": "LSF006"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of all sales invoice of LSF on IFCO tokyo portal",
+        "taskdate": "2022-12-03",
+        "taskid": 4,
+        "taskinterval": "Monthly",
+        "userid": "LSF006"
+      }
+    ],
+    "Sat Feb 11 2023":[
+      {
+      "remarks": "",
+      "status": "",
+      "task": "CLEAR SUSPENSE ENTRY",
+      "taskdate": "2022-12-22",
+      "taskid": 17,
+      "taskinterval": "Daily",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Bank Reconciliation",
+      "taskdate": "2022-12-22",
+      "taskid": 19,
+      "taskinterval": "Daily",
+      "userid": "LSF006"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Weekly debtors sheet to modern trade & General Trade",
+      "taskdate": "2022-12-10",
+      "taskid": 15,
+      "taskinterval": "Weekly",
+      "userid": "LSF006"
+    }]}
+  },
+  "LSF007":{
+    "personalinfo":{
+      "dp": "https://tinyurl.com/bdhhv5a8",
+      "email": "pod@chukde.in",
+      "firstname": "Vikrant",
+      "lastname": "-",
+      "password": "635296",
+      "position": "Jr. Logistics Executive",
+      "user": "LSF007"
+    },
+    "definedtasks":[
+      {
+      "remarks": "",
+      "status": "",
+      "task": "Entering the status of goods delivered to vendors on daily basis",
+      "taskdate": "2022-12-02",
+      "taskid": 1,
+      "taskinterval": "Daily",
+      "userid": "LSF007"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Prepartion of MIS of Vanita Goods Carrier as well as Bolero",
+      "taskdate": "2022-12-10",
+      "taskid": 2,
+      "taskinterval": "Weekly",
+      "userid": "LSF007"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Raised Debit note in case of shotage or resolve matter",
+      "taskdate": "2022-12-19",
+      "taskid": 3,
+      "taskinterval": "Weekly",
+      "userid": "LSF007"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "DESCREPANCY REPORT",
+      "taskdate": "2022-12-17",
+      "taskid": 4,
+      "taskinterval": "Weekly",
+      "userid": "LSF007"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Transport bill checking",
+      "taskdate": "2022-12-12",
+      "taskid": 5,
+      "taskinterval": "Weekly",
+      "userid": "LSF007"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Transport bill checking",
+      "taskdate": "2022-12-17",
+      "taskid": 6,
+      "taskinterval": "Weekly",
+      "userid": "LSF007"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Local Unit Running report",
+      "taskdate": "2022-12-15",
+      "taskid": 7,
+      "taskinterval": "Weekly",
+      "userid": "LSF007"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Mohit Goods Carrier Bill Checking",
+      "taskdate": "2022-12-15",
+      "taskid": 8,
+      "taskinterval": "Fortnightly",
+      "userid": "LSF007"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Replacement sheet updation",
+      "taskdate": "2022-12-13",
+      "taskid": 9,
+      "taskinterval": "Weekly",
+      "userid": "LSF007"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "POD updation",
+      "taskdate": "2022-12-15",
+      "taskid": 10,
+      "taskinterval": "Daily",
+      "userid": "LSF007"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Reconcile tally sheet with POD sheet",
+      "taskdate": "2022-12-17",
+      "taskid": 11,
+      "taskinterval": "Weekly",
+      "userid": "LSF007"
+    },
+    {
+      "remarks": "",
+      "status": "",
+      "task": "Arranging payment bills to javed sir",
+      "taskdate": "2022-12-23",
+      "taskid": 13,
+      "taskinterval": "Weekly",
+      "userid": "LSF007"
+    }]
+  },
+  "LSF008":{
+    "personalinfo":{
+      "dp": "blob:https://mail.google.com/16644205-ecc5-4b5b-b55a-f9523179ffb6",
+      "email": "acc.chukde@gmail.com",
+      "firstname": "Meenakshi",
+      "lastname": "Bhardwaj",
+      "password": "555523",
+      "position": "Accounts Assistance",
+      "user": "LSF008"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "checking of online sales bills",
+        "taskdate": "2022-12-10",
+        "taskid": 1,
+        "taskinterval": "Monthly",
+        "userid": "LSF008"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "copy of gstr1 calculation sheet",
+        "taskdate": "2022-12-10",
+        "taskid": 2,
+        "taskinterval": "Monthly",
+        "userid": "LSF008"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Downloading gst returs & challans from site (unique,sre,ram kaushal,umashree & lsf)",
+        "taskdate": "2022-12-11",
+        "taskid": 3,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF008"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "copy of advance tax calculation sheet and challan filing",
+        "taskdate": "2022-04-12",
+        "taskid": 4,
+        "taskinterval": "Quaterly",
+        "userid": "LSF008"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "copy of gstr3b calculation sheet",
+        "taskdate": "2022-12-20",
+        "taskid": 5,
+        "taskinterval": "Monthly",
+        "userid": "LSF008"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Mail of Ledger and Debit notes to SUNDRY CREDITOR",
+        "taskdate": "2022-04-30",
+        "taskid": 7,
+        "taskinterval": "Quaterly",
+        "userid": "LSF008"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "copy of stock statement filing",
+        "taskdate": "2022-12-3",
+        "taskid": 8,
+        "taskinterval": "Monthly",
+        "userid": "LSF008"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Ledger Reconciliation of Prosoft, Vikas Vishal Associates , Shri Ram Industries",
+        "taskdate": "2022-12-05",
+        "taskid": 9,
+        "taskinterval": "Monthly",
+        "userid": "LSF008"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Checking of cash vouchers of 395,508",
+        "taskdate": "2022-12-06",
+        "taskid": 10,
+        "taskinterval": "Monthly",
+        "userid": "LSF008"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "copy of TDS calculation sheet and challan with ledgers from tally",
+        "taskdate": "2022-12-06",
+        "taskid": 11,
+        "taskinterval": "Monthly",
+        "userid": "LSF008"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of akash imprest accounts in lsf books",
+        "taskdate": "2022-12-23",
+        "taskid": 12,
+        "taskinterval": "Weekly",
+        "userid": "LSF008"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of cash vouchers in tally",
+        "taskdate": "2022-12-19",
+        "taskid": 13,
+        "taskinterval": "Weekly",
+        "userid": "LSF008"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Posting of commission/expense entry of E- Commerce.",
+        "taskdate": "2022-12-06",
+        "taskid": 16,
+        "taskinterval": "Monthly",
+        "userid": "LSF008"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Rtv (General Trade)",
+        "taskdate": "2022-12-19",
+        "taskid": 18,
+        "taskinterval": "Weekly",
+        "userid": "LSF008"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Downloading TDS certificate online",
+        "taskdate": "2022-06-15",
+        "taskid": 20,
+        "taskinterval": "Quaterly",
+        "userid": "LSF008"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Cheque book request & record updation",
+        "taskdate": "2022-12-14",
+        "taskid": 21,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF008"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "GST R1 LSF Delhi",
+        "taskdate": "2022-12-08",
+        "taskid": 22,
+        "taskinterval": "Monthly",
+        "userid": "LSF008"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "GST 2B Reco LSF Delhi",
+        "taskdate": "2022-12-15",
+        "taskid": 23,
+        "taskinterval": "Monthly",
+        "userid": "LSF008"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Posting of gst input/Rcm entry - LSF Delhi",
+        "taskdate": "2022-12-22",
+        "taskid": 24,
+        "taskinterval": "Monthly",
+        "userid": "LSF008"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Preparation of GSTR-3B- LSF Delhi",
+        "taskdate": "2022-12-16",
+        "taskid": 25,
+        "taskinterval": "Monthly",
+        "userid": "LSF008"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF009":{
+    "personalinfo":{
+      "dp": "https://mail.google.com/mail/u/0?ui=2&ik=f8a262f847&attid=0.1&permmsgid=msg-f:1743937502957690521&th=1833b5eb4e465e99&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-ZOrtYRSloITa1wd3VWCwKGTO4lfP4UIMal8k1Bfs7XucEcvT7_e8G1iw-k7FjPGLzkCxtkGdwJxOVeQ03V_oYY9un1nXzR1sit4gNmNpuiHraDDcMjdwt2e4&disp=emb&realattid=ii_l81dgvdq0",
+      "email": "computer.operator.chukde@gmail.com",
+      "firstname": "Naveen",
+      "lastname": "Kaushik",
+      "password": "741852",
+      "position": "Mis Executive",
+      "user": "LSF009"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "FILL QUALITY DATA IN DOMESTIC PACKING SHEET (SANDEEP)",
+        "taskdate": "2022-12-23",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF009"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "FILL DETAILS IN GATE ENTRY (IN & OUT) SHEET",
+        "taskdate": "2022-12-23",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF009"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "FILL SHEET OF MANNUAL production 508 (VINOD SIR)",
+        "taskdate": "2022-12-23",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF009"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "FILL QUALITY DATA IN KULDEEP (RT PRODECTION)",
+        "taskdate": "2022-12-23",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF009"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "FILL QUALITY DATA IN KULDEEP (HANGER PRODECTION)",
+        "taskdate": "2022-12-23",
+        "taskid": 5,
+        "taskinterval": "Daily",
+        "userid": "LSF009"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "FILL QUALITY DATA IN KULDEEP (NICROME PRODECTION)",
+        "taskdate": "2022-12-23",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF009"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "FILL QUALITY DATA IN VINOD (Grinding Sheet)",
+        "taskdate": "2022-12-23",
+        "taskid": 7,
+        "taskinterval": "Daily",
+        "userid": "LSF009"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "FILL QUALITY DETAILS IN SANJAY MANUAL CLEANING SHEET",
+        "taskdate": "2022-12-23",
+        "taskid": 8,
+        "taskinterval": "Daily",
+        "userid": "LSF009"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "FILL DATA IN GMP/GHP SHEET",
+        "taskdate": "2022-12-23",
+        "taskid": 9,
+        "taskinterval": "Daily",
+        "userid": "LSF009"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "FILL QUALITY DATA IN KULDEEP (CUP FILLER & MULTIHEAD)",
+        "taskdate": "2022-12-23",
+        "taskid": 10,
+        "taskinterval": "Daily",
+        "userid": "LSF009"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "FILL QUALITY DATA OF EXPORT PACKING SHEET (GANESH)",
+        "taskdate": "2022-12-23",
+        "taskid": 11,
+        "taskinterval": "Daily",
+        "userid": "LSF009"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "FILL DETAILS IN QUALITY LOG BOOK SHEET/RAW MATERIAL ANALYSIS",
+        "taskdate": "2022-12-23",
+        "taskid": 12,
+        "taskinterval": "Daily",
+        "userid": "LSF009"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "FILL DETAILS IN QUALITY ONLINE INSPECTION MACHINE CLEANING)",
+        "taskdate": "2022-12-23",
+        "taskid": 13,
+        "taskinterval": "Daily",
+        "userid": "LSF009"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "FILL DATA IN GMP/GHP SHEET",
+        "taskdate": "2022-12-23",
+        "taskid": 14,
+        "taskinterval": "Daily",
+        "userid": "LSF009"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "FILL DATA IN COMBINED RECORD ETO BAHALGARH",
+        "taskdate": "2022-12-23",
+        "taskid": 15,
+        "taskinterval": "Daily",
+        "userid": "LSF009"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "FILL DATA IN COMBINED RECORD FUMIGATION",
+        "taskdate": "2022-12-23",
+        "taskid": 16,
+        "taskinterval": "Daily",
+        "userid": "LSF009"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "FILL QUALITY DATA OF MANNUAL CLEANING BAHALGARH",
+        "taskdate": "2022-12-23",
+        "taskid": 17,
+        "taskinterval": "Daily",
+        "userid": "LSF009"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Update transporter name , GR, Delivery Status in POD sheet",
+        "taskdate": "2022-12-23",
+        "taskid": 18,
+        "taskinterval": "Daily",
+        "userid": "LSF009"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Vehicle inward & outward data updation",
+        "taskdate": "2023-01-02",
+        "taskid": 19,
+        "taskinterval": "Daily",
+        "userid": "LSF009"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0010":{
+    "personalinfo":{
+      "dp": "https://mail.google.com/mail/u/0?ui=2&ik=f8a262f847&attid=0.1&permmsgid=msg-f:1742752980947357771&th=182f809a489ed04b&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9jldwj-cg0ptQcErkkv8E_RAKnHCdRIlABTQlyd675zeLQKZMdE3ZMVinQeDBc6BSNEZL2TMCkfgFXFxI1Q3rfBPKFa_NoeUcAAfQlJDyNpsfEDg7SySVczdo&disp=emb&realattid=ii_l7iqtk2p0",
+      "email": "pc.rai@chukde.in",
+      "firstname": "Sapna",
+      "lastname": "Upadhyay",
+      "password": "369258",
+      "position": "Process Coordinator",
+      "user": "LSF0010"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Chukde Rai Group and Send msg to Vikram sir Accordingly",
+        "taskdate": "2023-01-02",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Form of Amritsar (Laung Cleaning Details)",
+        "taskdate": "2023-01-02",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "check the Machine Breakdown sheet",
+        "taskdate": "2023-01-02",
+        "taskid": 3,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "check the Machine Breakdown sheet",
+        "taskdate": "2023-01-18",
+        "taskid": 4,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "check the Machine Breakdown sheet",
+        "taskdate": "2023-01-20",
+        "taskid": 5,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Pendencies in All Packing Sheets",
+        "taskdate": "2023-01-09",
+        "taskid": 6,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Pendencies in All Packing Sheets",
+        "taskdate": "2023-01-12",
+        "taskid": 7,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Details of IN/OUT Vehicle Form Responses Sheet",
+        "taskdate": "2023-01-09",
+        "taskid": 8,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Details of IN/OUT Vehicle Form Responses Sheet",
+        "taskdate": "2023-01-18",
+        "taskid": 9,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Details of IN/OUT Vehicle Form Responses Sheet",
+        "taskdate": "2023-01-20",
+        "taskid": 10,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Manjesh sir reveiw sheet",
+        "taskdate": "2023-01-02",
+        "taskid": 11,
+        "taskinterval": "Daily",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "\tCheck Daily Production report and Autonomous Maintenance sheet",
+        "taskdate": "2023-01-02",
+        "taskid": 12,
+        "taskinterval": "Daily",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Checklist Pendency of Accounts",
+        "taskdate": "2023-01-16",
+        "taskid": 13,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Checklist Pendency of Accounts",
+        "taskdate": "2023-01-12",
+        "taskid": 14,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Purchase FMS and Logbooks (Grinding, RM & PM)",
+        "taskdate": "2023-01-16",
+        "taskid": 15,
+        "taskinterval": "Daily",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "POD SHEET",
+        "taskdate": "2023-01-09",
+        "taskid": 16,
+        "taskinterval": "Daily",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Order to Collection (MT & GT) ",
+        "taskdate": "2023-01-02",
+        "taskid": 17,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Order to Collection (MT & GT) ",
+        "taskdate": "2023-01-11",
+        "taskid": 18,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Order to Collection (MT & GT) ",
+        "taskdate": "2023-01-13",
+        "taskid": 19,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check IMS",
+        "taskdate": "2023-01-02",
+        "taskid": 20,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check IMS",
+        "taskdate": "2023-01-18",
+        "taskid": 21,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check IMS",
+        "taskdate": "2023-01-20",
+        "taskid": 22,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Transfer Sheets and Call Accordingly",
+        "taskdate": "2023-01-02",
+        "taskid": 23,
+        "taskinterval": "Daily",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Domino Cosumables (Alankar Ji)[395]",
+        "taskdate": "2023-01-02",
+        "taskid": 24,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Training Checklist [Bahalgarh]",
+        "taskdate": "2023-01-02",
+        "taskid": 25,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Training Checklist [Bahalgarh]",
+        "taskdate": "2023-01-18",
+        "taskid": 26,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check OLD DAYS STOCK",
+        "taskdate": "2023-01-02",
+        "taskid": 27,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check OLD DAYS STOCK",
+        "taskdate": "2023-01-18",
+        "taskid": 28,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Sheets of RTV FMS 395/RTV FMS BG",
+        "taskdate": "2023-01-02",
+        "taskid": 29,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Sheets of RTV FMS 395/RTV FMS BG",
+        "taskdate": "2023-01-18",
+        "taskid": 30,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "\tCheck or Send Mail of RM/PM Hold Material",
+        "taskdate": "2023-01-02",
+        "taskid": 31,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "\tCheck or Send Mail of RM/PM Hold Material",
+        "taskdate": "2023-01-18",
+        "taskid": 32,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Sheet of Gate Bill Entry",
+        "taskdate": "2023-01-02",
+        "taskid": 33,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Sheet of Gate Bill Entry",
+        "taskdate": "2023-01-11",
+        "taskid": 34,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check GMP/GHP CHECKLIST of All Unit",
+        "taskdate": "2023-01-02",
+        "taskid": 35,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check GMP/GHP CHECKLIST of All Unit",
+        "taskdate": "2023-01-11",
+        "taskid": 36,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "E-Com Sheet (Mundka)",
+        "taskdate": "2023-01-02",
+        "taskid": 37,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Screen Printing Planning Sheet (Anwar/vikas) - [395]",
+        "taskdate": "2023-01-02",
+        "taskid": 38,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Screen Printing Planning Sheet (Anwar/vikas) - [395]",
+        "taskdate": "2023-01-18",
+        "taskid": 39,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Screen Printing Planning Sheet (Anwar/vikas) - [395]",
+        "taskdate": "2023-01-20",
+        "taskid": 40,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Manual Cleaning (vikas) [395]",
+        "taskdate": "2023-01-10",
+        "taskid": 41,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Manual Cleaning (vikas) [395]",
+        "taskdate": "2023-01-20",
+        "taskid": 42,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Mannual Cleaning (Narender) [Bahalgarh]",
+        "taskdate": "2023-01-02",
+        "taskid": 43,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Mannual Cleaning (Narender) [Bahalgarh]",
+        "taskdate": "2023-01-10",
+        "taskid": 44,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Mannual Cleaning (Narender) [Bahalgarh]",
+        "taskdate": "2023-01-13",
+        "taskid": 45,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Machine Cleaning (Lokesh) [Bahalgarh]",
+        "taskdate": "2023-01-10",
+        "taskid": 46,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Machine Cleaning (Lokesh) [Bahalgarh]",
+        "taskdate": "2023-01-13",
+        "taskid": 47,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Export Packing Sheet of Nagaur (Vishal/Kishan)",
+        "taskdate": "2023-01-10",
+        "taskid": 48,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Export Packing Sheet of Nagaur (Vishal/Kishan)",
+        "taskdate": "2023-01-13",
+        "taskid": 49,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Maintenance Checklist (Alankar sir)",
+        "taskdate": "2023-01-10",
+        "taskid": 50,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Maintenance Checklist (Alankar sir)",
+        "taskdate": "2023-01-13",
+        "taskid": 51,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "VRE Checklist (Naveen)",
+        "taskdate": "2023-01-10",
+        "taskid": 52,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "VRE Checklist (Naveen)",
+        "taskdate": "2023-01-13",
+        "taskid": 53,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "MIS Checklist (NAVEEN)",
+        "taskdate": "2023-01-10",
+        "taskid": 54,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "MIS Checklist (NAVEEN)",
+        "taskdate": "2023-01-13",
+        "taskid": 55,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "ETO (Vikas)",
+        "taskdate": "2023-01-11",
+        "taskid": 56,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "ETO (Vikas)",
+        "taskdate": "2023-01-13",
+        "taskid": 57,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "UPDATE 30-60 DAYS STOCK",
+        "taskdate": "2023-01-12",
+        "taskid": 58,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Make Report of Purchase FMS",
+        "taskdate": "2023-01-12",
+        "taskid": 59,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check PLANTATION CHECKLIST",
+        "taskdate": "2023-01-02",
+        "taskid": 60,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Take Price to Praveen for Bulk Pricing Cost Sheet",
+        "taskdate": "2023-01-05",
+        "taskid": 61,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Send mail to vikram sir for Rate Approval (Purchase FMS)",
+        "taskdate": "2023-01-05",
+        "taskid": 62,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Take Printout of leh cold store, 30-60 days, Scrap, Factory requirements pendency etc data for meeting",
+        "taskdate": "2023-01-19",
+        "taskid": 63,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Take Printout of leh cold store, 30-60 days, Scrap, Factory requirements pendency etc data for meeting",
+        "taskdate": "2023-01-20",
+        "taskid": 64,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Update stock of Unused Packing Material and paste in sheet of all location",
+        "taskdate": "2023-01-01",
+        "taskid": 65,
+        "taskinterval": "Monthly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Need to check that List of gift items and POP material to be send to rajat sir by santosh",
+        "taskdate": "2023-01-07",
+        "taskid": 66,
+        "taskinterval": "Monthly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Call for Audit Our fixed Asset Register DetailS-ALANKAR JI",
+        "taskdate": "2023-01-16",
+        "taskid": 67,
+        "taskinterval": "Quaterly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Prosoft Record Mail (395 & BG)",
+        "taskdate": "2023-01-15",
+        "taskid": 68,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Prosoft Record Mail (395 & BG )",
+        "taskdate": "2023-01-30",
+        "taskid": 69,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "STOCK MAIL (Santosh) Finished Good-CHECK",
+        "taskdate": "2023-01-10",
+        "taskid": 70,
+        "taskinterval": "Monthly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "STOCK MAIL (Kuldeep/Sandeep/Vinod) Packing, Grinding- CHECK",
+        "taskdate": "2023-01-03",
+        "taskid": 71,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "STOCK MAIL (Kuldeep/Sandeep/Vinod) Packing, Grinding- CHECK",
+        "taskdate": "2023-01-18",
+        "taskid": 72,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "STOCK MAIL (Vicky & Amit) Export Packing & FG Godown- CHECK",
+        "taskdate": "2023-01-10",
+        "taskid": 73,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "STOCK MAIL (Vicky & Amit) Export Packing & FG Godown- CHECK",
+        "taskdate": "2023-01-25",
+        "taskid": 74,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "STOCK MAIL (Narender) Cleaning- CHECK",
+        "taskdate": "2023-01-14",
+        "taskid": 75,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "STOCK MAIL (Narender) Cleaning- CHECK",
+        "taskdate": "2023-01-30",
+        "taskid": 76,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "STOCK MAIL (Durgesh) Packing Material- CHECK",
+        "taskdate": "2023-01-14",
+        "taskid": 77,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "STOCK MAIL (Durgesh) Packing Material- CHECK",
+        "taskdate": "2023-01-30",
+        "taskid": 78,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "STOCK MAIL (Rahul) Scrap / RTV- CHECK",
+        "taskdate": "2023-01-30",
+        "taskid": 79,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "STOCK MAIL (Arvind) Cleaned, ETO- CHECK",
+        "taskdate": "2023-01-15",
+        "taskid": 80,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "STOCK MAIL (Arvind) Cleaned, ETO- CHECK",
+        "taskdate": "2023-01-30",
+        "taskid": 81,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "STOCK MAIL (Lokesh) Raw Material, Machine Godown- CHECK",
+        "taskdate": "2023-01-15",
+        "taskid": 82,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "STOCK MAIL (Lokesh) Raw Material, Machine Godown- CHECK",
+        "taskdate": "2023-01-30",
+        "taskid": 83,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "STOCK MAIL (Naveen/Anwar) Packing Godown- CHECK",
+        "taskdate": "2023-01-15",
+        "taskid": 84,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "STOCK MAIL (Naveen/Anwar) Packing Godown- CHECK",
+        "taskdate": "2023-01-30",
+        "taskid": 85,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "STOCK MAIL (Naveen) Finished Good- CHECK",
+        "taskdate": "2023-01-15",
+        "taskid": 86,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "STOCK MAIL (Naveen) Finished Good- CHECK",
+        "taskdate": "2023-01-30",
+        "taskid": 87,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "STOCK MAIL (Vikas) Raw Material, Leh Cold Store, Sneh Cold Store, Cleaned Basement, Final Packing Material and Cleaning- CHECK",
+        "taskdate": "2023-01-15",
+        "taskid": 88,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "STOCK MAIL (Vikas) Raw Material, Leh Cold Store, Sneh Cold Store, Cleaned Basement, Final Packing Material and Cleaning- CHECK",
+        "taskdate": "2023-01-30",
+        "taskid": 89,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Send POD mail to Vikrant Sir.",
+        "taskdate": "2023-01-25",
+        "taskid": 90,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Send POD mail to Vikrant Sir.",
+        "taskdate": "2023-01-21",
+        "taskid": 91,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check and Update New Hardware Details Sheet",
+        "taskdate": "2023-01-15",
+        "taskid": 92,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check and Update New Hardware Details Sheet",
+        "taskdate": "2023-01-30",
+        "taskid": 93,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Mail of Consolidated Discrepency",
+        "taskdate": "2023-01-21",
+        "taskid": 94,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check Discrepency Remarks (Closed or Not)",
+        "taskdate": "2023-01-20",
+        "taskid": 95,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Cleaned Basement, Raw material, Cleaning, Export packing material, Final packing material, packing, Finished goods, Leh/vijay/svk cold - Internal stock audit",
+        "taskdate": "2023-01-15",
+        "taskid": 96,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Cleaned Basement, Raw material, Cleaning, Export packing material, Final packing material, packing, Finished goods, Leh/vijay/svk cold - Internal stock audit",
+        "taskdate": "2023-01-30",
+        "taskid": 97,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Cleaned Basement, Raw material, Cleaning, Export packing material, Final packing material, packing, Finished goods, Leh/vijay/svk cold - External stock audit",
+        "taskdate": "2023-01-07",
+        "taskid": 98,
+        "taskinterval": "Quaterly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "RECONCILE FMS AND POD SHEET WITH TALLY",
+        "taskdate": "2023-01-07",
+        "taskid": 99,
+        "taskinterval": "Monthly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "CHECK THE MAIL OF EXCESS & VARIATION ITEMS LIST",
+        "taskdate": "2023-01-20",
+        "taskid": 100,
+        "taskinterval": "Daily",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "FACTORY PENDENCY MAIL TO BE SEND",
+        "taskdate": "2023-01-25",
+        "taskid": 101,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "OLD DAYS STOCK- GRINDING & PACKING (VINOD JI)- UPDATE",
+        "taskdate": "2023-01-27",
+        "taskid": 102,
+        "taskinterval": "Weekly",
+        "userid": "LSF0010"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0011":{
+    "personalinfo":{
+      "dp": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIRDxUSEBARFRUWERITERATEhYaFRcVFxYXFhgTFxMYHSggGBolGxcVITMhJSkrLi4wFyAzODMuOCgtLisBCgoKDg0OGhAQGy0lICUvLy0tLS0tLS0tLi0tLS0tLy0tLS0tLS0tLS8tLy0tKy0tLSstLS0tLS0tLy0tKy4tLf/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAABwIDBAUGAQj/xABHEAACAQICBwUDBwgJBQEAAAAAAQIDEQQhBQYSMUFRYQcTInGBkaGxIzJCUnKywRQzNENiksLRNVNUc4KToqOzJWTi4/AV/8QAGgEBAAIDAQAAAAAAAAAAAAAAAAQFAQIDBv/EADERAAIBAgMGBQMDBQAAAAAAAAABAgMRBCExBRJBYXGxUYGhwfAiMjMTNNFykbLh8f/aAAwDAQACEQMRAD8AnEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAtVq0YRcpyjGKzcpNJJc23uALprdK6bw2FV8TiKVK+5TmlJ/ZjvfoRT2g9plSVWWH0dUUacfDPFQacqj4qlLdGC3bSzfBpZuM5TcpOUm5SbvKcm3Jvm5PNs5SqpZIk08O2ryJ3x3axo+H5vv6393S2V7ariaiv2xw/V4Gb+3XUfcoSIhiXYnJ1ZM7rD0yV4dsL44BW6Yn/1G0wfathJNKrQr0/2kozivY7+4hmJdiFVkYdCn4dz6N0RrFhMX+j14Tdr7F7TS5unK0l7DbHzDTbTTTaad01vT5p8Gd5qt2i1qDVPFuValu7z9bDrf9YvPPq9x0jVXE4zw7WcSYgYuAxlOtTjUpTU4SV4yjuf8vLgZR2IwAAAAAAAAAAAAAAAAAAAAAAAAANTrTpiOCwVbEySfd024xe6U34YQv1k4r1AWeRzfaD2g09HLuaSjVxMo3VNvwU090qls8+EVm+isyDNOaexONnt4qvOo73jFu0I/Yprwx9lzBxeLnWqTq1ZudScnOc3vcnvfTy4GRorRtXE1VSoU5Tm87LclxlKTyiur5kWc3IsqdJQXMsRLsTrl2ZY3Yvt4a/1O8nf27Fr+7qcxjMHUoVHTrQlCcfnQlv8AO6ya6rJnM6FES5EtRLsQC7EuxLUS7EyYLkS5EtxLkQDp9S9aJ4GtneVCbXe0+XDvIr6y96VuTU3UK0ZwjOElKMoqUZJ5NNXTT5WPm1Em9lGnm9rB1HuTqUG+X06fv2l5y5HalLgyNiKd1vIksAHchgAAAAAAAAAAAAAAAAAAAAAjjt2xLjouEF+sxdKMvJQqVPjCJI5GHb4v+n0H/wB5H/hrGs/tZ0pfeupBi/8AkieNR9XlgcKlJLvqiU68uO1wp35RTt53fEi/s40YsRpGntK8aSdeStk3FpQX78ov/CycLkNlkVXOe1x1bjjqNkkq0E3RqPn/AFcn9V+55+e/uLmoPnqdOUJOM4uMotxlF7007NPrcqiSprhqbHFvvqLjCta0r/MqJKy2rbpLdtcsnwajnSGh8Rh2+/o1IJfSavD0qK8X7TYGNEuxLMGXomTBciXIluJciAVoztEY+WHxFOvHfTnGVlxS+dH1jdepgorQMWufSNKalFSi7ppNPmnmmXDQ6i4rvdG4eXKn3f8Alt0/4TfExO+ZWNWdgADJgAAAAAAAAAAAAAAAAAAEd9ulDa0VGX9XiqU/bGdP+MkQ4/tZw3eaGxKW+Kp1PSFWEn/pTNZaM3pu011I67G8N4cTV5ulTXopSl96PsJIucT2S0dnR8pfXxNSXoowh/C/adncgvUtCu4uUXFzBkrue3LdxcAsV9H0J/PoUZfapwfxRY//AAcJ/ZMP/kw/kZ9zy5m4MF6Bwn9loelOK+CMDF6oYSe6nKm+dOb+7K69xvrnlwYsRxpvVSrh05wfeU1m5JWlFc5R5dV7jQomW5HeuOh1QqqdNWp1L+FbozW+K5J7168jZMw0SP2Xyvo2C5VKq/1t/idacn2Ywtoym/rTrP8A3JR/A6wmQ+1FZU+9gAGxoAAAAAAAAAAAAAAAAAADV6zYPv8AA4mit9TDVoLzlCST9ptAARH2Y/0XSfOdZ/7kl+B1NzTarYL8nw3cpWVPEYyml0jiaqXuSNvcrpZNlwnfMquLlNxcxcyVXFym4uLgquLlNxcXBVcXKbi4uCq5o9dKalgpt/RlTlHzclD4SZurmr1iwzrUVRjvq1qNPLheorv0Sv6GVqYeh12puG7rR2Hja3yMZtdZ+N++RuyinBJJJWSSSXRFZYpWyKhu7uAADAAAAAAAAAAAAAAAAAAAAAByelaShWmksm9v1lm/fcw7m51lo5wn0cX8V+Jo7lfVVpstqD3qaZXcXKbi5zOpVcXKbi4BVcXKbi4BVcXKbi4BVc2GhMKp1lKX6vxx+004L3Ska250ertG1Ny+tLLyjl8bnWirzRwxEt2mzbgAnlWAAAAAAAAAAAAAAAAAAAAAAAAYek8N3lKUVvtePmt38vU4+53hymn8H3dTbS8M3fylxX4+0i4iGW8TcJUzcGa64uUXPbkQnlVxcpuLgFVxcpuLgFVxcpueXALlODlJRW9tJebO1w9JQhGK3JJGj1cwV33slkrqHnxl+HtOiJuHhZb3iV2LqXlurh3AAJBEAAAAAAAAAAAAAAAAAAAAAAAABj4vDRqQcJbn7nwaMgAynZ3RwmMw0qU3CW9cea4Ms3MrWybWKuvqQy9pgU6ie72FXNWk0XVNuUEy7cXPAamx7cXPAAe3MzRmBlWnZZRXz5clyXU1tWql58jptTpN0qjf9b/DE6UoqU0mcq83CDkje0qajFRirJKyXQuAFkU4AAAAAAAAAAAAAAAAAAAAAAAAALVarGEXKclGKV3KTSSXNt7gC6Y9SslJQTW202o8bLfJrluz62OR0xrqtrucFHvaknsqbT2bvK0I75PrkuOZu9X9HSoQffT7ytUtOrVau20rKN/qxu7LJZ5JXsSJ4aVOG9UyvouPV+C668OLXGNeM5OMM7avh05vtx4J2tP6E71bdP8AOJZpv565dHy4cPLkFFp2d007NPJp/gSeaLT2hVW+Up2VVL0muT68n6eVdWo731R17llh8TufTLTscpGo+OZ73nmUpZtNNNOzi96fkVbJBLI9dToW5Tb6FeyUtZpJNtu0Yre35AyWdhtpJNtuyS3tvcrczt9A6NlQpWcvFJ7Uo/RWSWzf03/EtaC0KqPylSzqtekE+C6836LrvSfQo7v1PUq8TiN/6Y6dyiE7+a3riis0un8HVqwX5NU7utDx058OtOXBxlyaa8KfBGh0Pr1Ha7nHQdGpF7MpJPY2llaUd8H7Vxuiwhhp1IOdPO2qWq524rmtOPi66deEJKM8r6Pg+V+D6+XG3cAtUK0ZxUoSjKLV4yi001zTW8ukc7AAAAAAAAAAAAAAAAFqrVjGLlKSjFK7k2kkubb3HMaU14oU7qinWl08MP3mrv0TXU6UqNSq7QV/nzU51KsKavN2OsNfpHS9DDr5atCLtdRveb8oK8n6IjfSWtmLq3Sq93H6tPw/6/nX8mvI0L3t8W7t8W+bfEs6WyZPOpK3JZ+v/SBV2lFZU1frkv57HdaS7QEssNSv+3VyXmqcXdrzaOQ0ppWviXevVlOzuo7orygsr9d/UwmdxqLq3fZxVddaMHz4VGvh7eRPcMPgob6Wfq37diEp18XLcvl6Je/mzZak6tdxHvqsflZLwxf0Iv8AifHlu536muvC3xSbT5OxdKKsbxa5pr3Hnq1aVWbnLX5kXlKlGnBQjoUYertxvx3NcmXjWYOraSfCVk/w+NvU2ZpONmbRd0aLT+hu+XeU8qqXltpcH15P08uR75rKSzWTTyafJnXa2adjgsO55OpLw0Yc5P6T/Zje79nFEQ1MVKUnOUk5SblKWTbbzbdjtR2TLFpzT3fK9/VGJbWWEtCS3uj0Ow75vKMc3klvd+SR12gND9yu8q51Wv3E+C6836LrD1PEyjJSjK0otSjLK6ad01fqTBqnp2OMw+1kqkfDVguEvrJfVla69VwFbZMsJFVG97ytb1ZmO1o4puCTj1epvizia2xG/HclzZeNXi57U+kcl58X+HocYK7EnZGZhPmXe9ttvnn/ACscrr1qv+Uw76jH5aK8SX6yK4fbXDnu5W6vCfm4fYj8C+dKVadGpvw1RpUpRqw3JaED6K0zXwsr0asoZ+KO+L+1F5N9bX6na6K7R183FUrft0s15unJ3S8m/Io7QtVvnYuhH9rEQXvqJfe9vMj256VU8Njqf6jjn6p9ePndFC54jBz3L5cL6Ne3kydtGabw+J/MVoTdruF7TS605WkvVGyPndPNPindPinzTOi0XrpjKFk6vex+pVvL2Svte9roV9bY0lnSlfk8vX/hNpbVi8qitzWa/nuTMDjNEdoOHq2jWjKjLr4ofvJXXqkup11CrGcVKElKLV4yi001zTW8qatCpRdqkWvnjo/IsqdWFRXg7l0AHI6AAAA57WLWanhPAlt1WsoJ5R6zfDy3v3mZrFpP8mw86ittZRpp8ZyyXmlm30TIlq1HKTlJuUm25Se9t72ywwODVb6p/avUhYzEul9MdX6GXpXS1bEy2q1RyzuoLKMfsw/F3fU15Uyll/GKirRVkUsm5O7eYPGGeG1zSxutUdDLF4m018nBKdTqr+GPq7+iZLUY2VlkuCIo1S1lhg6s41Yvu6ijecVeUXG9nbjHPhn5knYDH0q8NujUhOPOLvbo1wfRlBtP9R1btfStPcu9nqCp5avXx5ehlgArSeaaMfCl0RnrExVJ1JtRUYtzk9yUVdt9MrmJJWb+1L4sxdIYNVqbpTb7uUoupBO20o57La+i3a/NRtxZIaUrXOKe7c4LHUMTpSdXFJONKEZdwms5bF3GnBc21nLdd2V7Zcn3hN8IKKSikkkkklZJLckluRE+s+Fh+WVu7SjHvGtlLJNJKVlwu9p+pc4Ku6jcErJLLktLc3x/uVWLoqCU27tvPm3n5GnczptF08To10cbsuVGpGLqqKzjCeexNcMrNS3XyduOiwtCMZxlPxRUk5RayaTTaa4qxNNSCacWk00001dNPJprijfG1pUt2LV0735rwNMHSjO8k81a3J+PzUzJYqLpKpBqSlFSpyW57S8L8s7mA3ZeSLGj8GqFPuoN93GUpU4PPY2s9hP6qblbltW4IyLXy5tL2u34lGoqN7Fw3extqUbRS5JL2IrAI52KWr7/AGEM68aCWDxNoL5KonOn+zn4oeja9JIlzSGkKWHht16sKcec5JX6JcX0REuu2tlPHVYQoQfd09tqpJWlNuyuo/RjZcc3fhYtdk/qKteK+l6+HLz5eDZXbSUHSzea09/Q5sAHpSgBsdDacr4SW1RqOOd5QecJfahu9VZ9TXAxKMZLdkrozGUovei7MmPVXW6ljPA13dZLOm3lJLfKD4+W9dVmdOfPFGrKElKEnGUWpRknmms00ybdVNMfleEhVdtrOFVLcpx35cE1aSXKSPNbRwKofXD7Xw8H/HgX+BxjrLcn9y9V81N0ACrLA4TtJxL2qNLhadRrrlGL+/7TiWdb2jQf5RTlwdKy9Jyb+8jkz0eCsqEbfMyixmdaXzgigFRQyXci2PGeM9Z4ZuYKJwT3lFJTpy26U5Qkt0oycZeV0XjO0Poati57NGOSfjqP5kfN8+izMScVFuWhtBSbSjqb7VDW3GVMRDD1IqspPOdtmcIrfNyXhaS5q7yzuySjTaB0HSwdPZhnJ226j+dJ/hHkvi8zcnmcTUpzqXpqy78z0GHhOMLTd2a7ExtOXWz91vwZbMnGR8SfNNezd8WY5rF5CSzKW0s3uWbIexFbbnKb3ylKT823J/ElPWCv3eErSvZ91KKfWXhXvaInLrZUcpS6L56FVtGWcY9X7HkkS9o2t3lClP61KnL2xTIibJM1OxG3gaT5bcP3ZyS91jfaqvTi/B91/o12c7TkvFdn/s3BcoRvOPnd+ib+NigyMDHxN8o29r/8Sjk7It4q7M8izXfXTG0sTPDUYKio2tUttTnF7ppvwqL6JtWed0SmaXWLQFHG09morSV9iqvnRf4xfFfB2a2wtSlConVjdduduPziYxEJyg1Tdn8/t1IJxDqVp7depOcnvlOTlLyu+BVCCW42untAV8FU2a0fC34KkfmT8nwfR5/E1Vz1lOUZRTg7rhb56cDzVRTUmp6lYKLi5ucysFFxcArJB7JcY9qtRbycYVIrqm4yfreHsI7udv2TQbxlSXBYdxfnKpBr7rIe0Enhp35d0S8C2sRG3PsyVwAeTPSnCdpu/D+Vf40jiQD0OB/bx8+7KPGfnl5dkeHgBLIxSwwDZAoZLOo/6BT85/fYBW7U/Euvsyds78j6e6N+ACjLcxcduj9r+GRjsA6w0OctTQ67/oFTzpf8sCNGeAv9mfhf9T7RKTaH5V0Xdluv80kXs9/QF/e1PggDptH9v5+zNMB+Z/0vujpTL0ful9r+GIB52ehew1MsAHE6nOa//wBG1v8AB9+JCgB6LZH4ZdfZFJtT8kenuwAC1KwAAAEh9j/z8T9ih8aoBC2j+1n5f5ImYD9xHz/xZJYAPKnoj//Z",
+      "email": "vre@chukde.in",
+      "firstname": "Naveen",
+      "lastname": "Shahi",
+      "password": "vre011",
+      "position": "Vendors' Representative Executive",
+      "user": "LSF0011"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "CALL TO VENDOR AGAINST PACKING MATERIAL STATUS IN 395",
+        "taskdate": "2022-12-23",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0011"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "RAISE PO AS PER THE SHEET OF ORDER OF PM IN Bahalgarh",
+        "taskdate": "2022-12-23",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0011"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "CALL TO VENDOR AGAINST PACKING MATERIAL STATUS IN Bahalgarh",
+        "taskdate": "2022-12-23",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0011"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "RAISE PO AS PER THE SHEET OF ORDER OF PM IN 395",
+        "taskdate": "2022-12-23",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0011"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "CALL TO VENDOR AGAINST RAW MATERIAL STATUS IN 395",
+        "taskdate": "2022-12-23",
+        "taskid": 5,
+        "taskinterval": "Daily",
+        "userid": "LSF0011"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Material Issues as per requirement",
+        "taskdate": "2023-01-03",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF0011"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Prepetual Inventory on daily Basis",
+        "taskdate": "2023-01-11",
+        "taskid": 7,
+        "taskinterval": "Daily",
+        "userid": "LSF0011"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Godown transfer in Tally daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 8,
+        "taskinterval": "Daily",
+        "userid": "LSF0011"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Details of Rejected Material/Excess Material/New product Development Weekly",
+        "taskdate": "2023-01-02",
+        "taskid": 9,
+        "taskinterval": "Weekly",
+        "userid": "LSF0011"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "List of Red items on MIS on daily Basis",
+        "taskdate": "2023-01-11",
+        "taskid": 10,
+        "taskinterval": "Daily",
+        "userid": "LSF0011"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "No of items stocked out on weekly basis",
+        "taskdate": "2023-01-11",
+        "taskid": 11,
+        "taskinterval": "Weekly",
+        "userid": "LSF0011"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Purchase Comparison Sheet before 5th of every month",
+        "taskdate": "2023-01-05",
+        "taskid": 12,
+        "taskinterval": "Monthly",
+        "userid": "LSF0011"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Rate List month wise comparison 5th of every month",
+        "taskdate": "2023-01-05",
+        "taskid": 13,
+        "taskinterval": "Monthly",
+        "userid": "LSF0011"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Material Tracking on daily basis",
+        "taskdate": "2023-01-13",
+        "taskid": 14,
+        "taskinterval": "Daily",
+        "userid": "LSF0011"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0012":{
+    "personalinfo":{
+      "dp": "https://content.presentermedia.com/content/clipart/00007000/7684/business_icon_woman_300_nwm.jpg",
+      "email": "operations.chukde@gmail.com",
+      "firstname": "Renu",
+      "lastname": "Malhotra",
+      "password": "564231",
+      "position": "Admin",
+      "user": "LSF0012"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Stationary order",
+        "taskdate": "2022-12-10",
+        "taskid": 1,
+        "taskinterval": "Monthly",
+        "userid": "LSF0012"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Consumption order",
+        "taskdate": "2022-12-10",
+        "taskid": 2,
+        "taskinterval": "Monthly",
+        "userid": "LSF0012"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check if Security Camera Recording is Working",
+        "taskdate": "2022-12-16",
+        "taskid": 3,
+        "taskinterval": "Monthly",
+        "userid": "LSF0012"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Cleaning of Telephone Handsets",
+        "taskdate": "2022-12-16",
+        "taskid": 4,
+        "taskinterval": "Monthly",
+        "userid": "LSF0012"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Cleaning of AC Filter",
+        "taskdate": "2022-12-01",
+        "taskid": 5,
+        "taskinterval": "Monthly",
+        "userid": "LSF0012"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "First Aid Box to be Refilled",
+        "taskdate": "2022-12-01",
+        "taskid": 6,
+        "taskinterval": "Monthly",
+        "userid": "LSF0012"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Ordering Pantry and Toilet Kits",
+        "taskdate": "2022-12-20",
+        "taskid": 7,
+        "taskinterval": "Monthly",
+        "userid": "LSF0012"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Courier bill checking",
+        "taskdate": "2022-12-21",
+        "taskid": 8,
+        "taskinterval": "Monthly",
+        "userid": "LSF0012"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Check for Room Freshner and Soap in Toilets",
+        "taskdate": "2022-12-07",
+        "taskid": 9,
+        "taskinterval": "Monthly",
+        "userid": "LSF0012"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Courier daily & tracking",
+        "taskdate": "2022-12-23",
+        "taskid": 10,
+        "taskinterval": "Daily",
+        "userid": "LSF0012"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Stock updation of stationary and consumption",
+        "taskdate": "2022-12-23",
+        "taskid": 11,
+        "taskinterval": "Daily",
+        "userid": "LSF0012"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Cash book updation in tally",
+        "taskdate": "2022-12-23",
+        "taskid": 12,
+        "taskinterval": "Daily",
+        "userid": "LSF0012"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Cleaning of Storage Room on 3rd Floor",
+        "taskdate": "2022-12-16",
+        "taskid": 13,
+        "taskinterval": "Weekly",
+        "userid": "LSF0012"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Cleaning of God Idols and Picture Frames in Stair Case",
+        "taskdate": "2022-12-16",
+        "taskid": 14,
+        "taskinterval": "Weekly",
+        "userid": "LSF0012"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Cleaning of Computers, UPS and Batteries",
+        "taskdate": "2022-12-19",
+        "taskid": 15,
+        "taskinterval": "Weekly",
+        "userid": "LSF0012"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updating the Courier File",
+        "taskdate": "2022-12-19",
+        "taskid": 16,
+        "taskinterval": "Weekly",
+        "userid": "LSF0012"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Cleaning of Storage Room on 2nd Floor",
+        "taskdate": "2022-12-15",
+        "taskid": 17,
+        "taskinterval": "Weekly",
+        "userid": "LSF0012"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Cleaning of Glass Windows",
+        "taskdate": "2022-12-20",
+        "taskid": 18,
+        "taskinterval": "Weekly",
+        "userid": "LSF0012"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Cleaning of Cob Webs",
+        "taskdate": "2022-12-21",
+        "taskid": 19,
+        "taskinterval": "Weekly",
+        "userid": "LSF0012"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Freeze Cleaning, Dishwasher cleaning, cobad area plates and cups are cept",
+        "taskdate": "2022-12-17",
+        "taskid": 20,
+        "taskinterval": "Weekly",
+        "userid": "LSF0012"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Cleaning and Service of Computer",
+        "taskdate": "2022-04-11",
+        "taskid": 21,
+        "taskinterval": "Quaterly",
+        "userid": "LSF0012"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "RO Service",
+        "taskdate": "2022-04-20",
+        "taskid": 22,
+        "taskinterval": "Quaterly",
+        "userid": "LSF0012"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Cleaning of chairs through urbanclap",
+        "taskdate": "2022-04-05",
+        "taskid": 23,
+        "taskinterval": "Half-yearly",
+        "userid": "LSF0012"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Cleaning of floor through urbanclap",
+        "taskdate": "2022-04-05",
+        "taskid": 24,
+        "taskinterval": "Quaterly",
+        "userid": "LSF0012"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0013":{
+    "personalinfo":{
+      "dp": "https://tinyurl.com/4uc7wwue",
+      "email": "mis@chukde.in",
+      "firstname": "test",
+      "lastname": "test",
+      "password": "123147",
+      "position": "test manager",
+      "user": "LSF0013"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Schedule recurring meetings.",
+        "taskdate": "2022-12-22",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0013"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Select from multiple statuses for a task.",
+        "taskdate": "2022-12-29",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0013"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0014":{
+    "personalinfo":{
+      "dp": "NA",
+      "email": "vinod.gaur@chukde.in",
+      "firstname": "Pradeep",
+      "lastname": "-",
+      "password": "1234",
+      "position": "Supervisor",
+      "user": "LSF0014"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Pouch to be printed according to the production plan date wise (Daily) ensuring LOT wise to be collected by stores team",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0014"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Approval of all printed contents on the pouched and ATC boxes from quality team",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0014"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Daily output of printing done item wise",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0014"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "GMP/GHP sheets updation",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0014"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Maintainance 5s and line clearance",
+        "taskdate": "2023-01-10",
+        "taskid": 5,
+        "taskinterval": "Daily",
+        "userid": "LSF0014"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "No of pouches which are wrong printing was done and were cleaned by thiner",
+        "taskdate": "2023-01-10",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF0014"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Output of Day and Night to be submitted to Manjesh Sir on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 7,
+        "taskinterval": "Daily",
+        "userid": "LSF0014"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "No of complaint regarding Mis-printing on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 8,
+        "taskinterval": "Daily",
+        "userid": "LSF0014"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Is any rework has been done on daily basis?",
+        "taskdate": "2023-01-10",
+        "taskid": 9,
+        "taskinterval": "Daily",
+        "userid": "LSF0014"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Is Scanning of Barcode being Done?",
+        "taskdate": "2023-01-10",
+        "taskid": 10,
+        "taskinterval": "Daily",
+        "userid": "LSF0014"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Checking of barcode in synchronization in GS1",
+        "taskdate": "2023-01-10",
+        "taskid": 11,
+        "taskinterval": "Daily",
+        "userid": "LSF0014"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Is smaller lots of pouches which are printed are sent separately in Liner or not, to packing dept?",
+        "taskdate": "2023-01-10",
+        "taskid": 12,
+        "taskinterval": "Daily",
+        "userid": "LSF0014"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation on breakdowns happening in Machines on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 13,
+        "taskinterval": "Daily",
+        "userid": "LSF0014"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Stock audit of printed and non printed boxes lying in printed section",
+        "taskdate": "2023-01-02",
+        "taskid": 14,
+        "taskinterval": "Monthly",
+        "userid": "LSF0014"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Weekly submission of Ink cartriges, makeup cartiges and thiner",
+        "taskdate": "2023-01-02",
+        "taskid": 15,
+        "taskinterval": "Weekly",
+        "userid": "LSF0014"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Submission of TIG cartriges weekly",
+        "taskdate": "2023-01-02",
+        "taskid": 16,
+        "taskinterval": "Weekly",
+        "userid": "LSF0014"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0015":{
+    "personalinfo":{
+      "dp": "NA",
+      "email": "vinod.gaur@chukde.in",
+      "firstname": "Javed",
+      "lastname": "-",
+      "password": "1234",
+      "position": "Packing (Bahalgarh)",
+      "user": "LSF0015"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "All production entries (Either machine or Manual) to be punched in Tally",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0015"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation in Google Sheet (Machine packing/Manual Packing)",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0015"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation on weekly basis of all the stocks which are lying on packing godowns for more than 30 days",
+        "taskdate": "2023-01-02",
+        "taskid": 3,
+        "taskinterval": "Weekly",
+        "userid": "LSF0015"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Deviation of Production plan to be updated on daily basis with reason",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0015"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Stock take (Bimonthly stock audit of Packing godown)",
+        "taskdate": "2023-01-02",
+        "taskid": 5,
+        "taskinterval": "Monthly",
+        "userid": "LSF0015"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation on all the items which are packed and having weight loss more than 1% with reasons",
+        "taskdate": "2023-01-10",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF0015"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Ammendment in BOM and creation of New BOM",
+        "taskdate": "2023-01-10",
+        "taskid": 7,
+        "taskinterval": "Daily",
+        "userid": "LSF0015"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Ensuring that Goods have being received in Tally as per actual Physically received (URU)",
+        "taskdate": "2023-01-10",
+        "taskid": 8,
+        "taskinterval": "Daily",
+        "userid": "LSF0015"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Transfer of FG after proper entry in Tally",
+        "taskdate": "2023-01-10",
+        "taskid": 9,
+        "taskinterval": "Daily",
+        "userid": "LSF0015"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Planning of Next day production to be done @4 pm by asking for the RM and PM from resp depts.",
+        "taskdate": "2023-01-10",
+        "taskid": 10,
+        "taskinterval": "Daily",
+        "userid": "LSF0015"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of Attendance Sheet",
+        "taskdate": "2023-01-10",
+        "taskid": 11,
+        "taskinterval": "Daily",
+        "userid": "LSF0015"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "No of RED items falling in IMS Sheet (FG items) (Only counts)",
+        "taskdate": "2023-01-10",
+        "taskid": 12,
+        "taskinterval": "Daily",
+        "userid": "LSF0015"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0016":{
+    "personalinfo":{
+      "dp": "na",
+      "email": "vinod.gaur@chukde.in",
+      "firstname": "MD. Kasim",
+      "lastname": "-",
+      "password": "1234",
+      "position": "Machine Packing (Bahalgarh)",
+      "user": "LSF0016"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Monitoring of all the packings being done as per production plan",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0016"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Material to be arranged as per planning from stores",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0016"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Line clearance/GMP/GHP/Maintainance 5s/Updation of Gsheets on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0016"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of Autonomous Sheet offline on the papers provided by Vinod sir",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0016"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of wastage done on all the machines on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 5,
+        "taskinterval": "Daily",
+        "userid": "LSF0016"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Raw material wastages as well as Mix masala to be updated on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF0016"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of production book manually on daily basis (Machine packng)",
+        "taskdate": "2023-01-10",
+        "taskid": 7,
+        "taskinterval": "Daily",
+        "userid": "LSF0016"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Ensuring the stickers (item name & Grammage) being pasted on each cartons",
+        "taskdate": "2023-01-10",
+        "taskid": 8,
+        "taskinterval": "Daily",
+        "userid": "LSF0016"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0017":{
+    "personalinfo":{
+      "dp": "NA",
+      "email": "vinod.gaur@chukde.in",
+      "firstname": "SHAKTI",
+      "lastname": "-",
+      "password": "1234",
+      "position": "Manual Packing (Bahalgarh)",
+      "user": "LSF0017"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Arranging materials in Manual Packing",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0017"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation on Production Book manually on daily basis (Manual Packing)",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0017"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of weight change as well as new production introduction in Akaar machine",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0017"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "All the goods left on floor after packing returned to stores on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0017"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Learning on daily basis to update entries in Tally",
+        "taskdate": "2023-01-10",
+        "taskid": 5,
+        "taskinterval": "Daily",
+        "userid": "LSF0017"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Ensuring three stickers (Item Name/Grammage/Intact Seal/Product Detail from Akaar Machine) being pasted on each cartons",
+        "taskdate": "2023-01-10",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF0017"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Line clearance",
+        "taskdate": "2023-01-10",
+        "taskid": 7,
+        "taskinterval": "Daily",
+        "userid": "LSF0017"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0018":{
+    "personalinfo":{
+      "dp": "NA",
+      "email": "vinod.gaur@chukde.in",
+      "firstname": "AMIT",
+      "lastname": "-",
+      "password": "1234",
+      "position": "Heavy Labour",
+      "user": "LSF0018"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of MRN on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0018"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Keeping a copy of all the purchase bills on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0018"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "RM stock audit in Tally bimonthly",
+        "taskdate": "2023-01-02",
+        "taskid": 3,
+        "taskinterval": "Monthly",
+        "userid": "LSF0018"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of Google sheet (Purchase FMS)",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0018"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Fumigation report to be maintained manually",
+        "taskdate": "2023-01-10",
+        "taskid": 5,
+        "taskinterval": "Daily",
+        "userid": "LSF0018"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of Jaggery Orders in Jar Google Sheet as per orders",
+        "taskdate": "2023-01-10",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF0018"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of Labour allotment Sheet on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 7,
+        "taskinterval": "Daily",
+        "userid": "LSF0018"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of 30 days Old day Stock summary (Google Sheet)",
+        "taskdate": "2023-01-10",
+        "taskid": 8,
+        "taskinterval": "Daily",
+        "userid": "LSF0018"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "All the goods which are rejected by Quality team, that should be updated in Google sheet and should be returned on time to Vendors",
+        "taskdate": "2023-01-10",
+        "taskid": 9,
+        "taskinterval": "Daily",
+        "userid": "LSF0018"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "All the goods which are being received in Factory, samples of the same to be given to Quality team for Lab Tests",
+        "taskdate": "2023-01-10",
+        "taskid": 10,
+        "taskinterval": "Daily",
+        "userid": "LSF0018"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation in Tally on daily basis of all Godown Transfers",
+        "taskdate": "2023-01-10",
+        "taskid": 11,
+        "taskinterval": "Daily",
+        "userid": "LSF0018"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation on Qty of Chemicals used per tonne in Fumigation",
+        "taskdate": "2023-01-10",
+        "taskid": 12,
+        "taskinterval": "Daily",
+        "userid": "LSF0018"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "PO Tracking of all the bills and getting PO from respective Persons",
+        "taskdate": "2023-01-10",
+        "taskid": 13,
+        "taskinterval": "Daily",
+        "userid": "LSF0018"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of Purchase Planning Sheet as well as Export Items.",
+        "taskdate": "2023-01-10",
+        "taskid": 14,
+        "taskinterval": "Daily",
+        "userid": "LSF0018"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of all the bills which are coming duplicate as well as whatsapp ",
+        "taskdate": "2023-01-10",
+        "taskid": 15,
+        "taskinterval": "Daily",
+        "userid": "LSF0018"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of Heavy Labour Sheet on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 16,
+        "taskinterval": "Daily",
+        "userid": "LSF0018"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of deviations in the SOP",
+        "taskdate": "2023-01-10",
+        "taskid": 17,
+        "taskinterval": "Daily",
+        "userid": "LSF0018"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Bills submission to Accounts in Daily Basis",
+        "taskdate": "2023-01-10",
+        "taskid": 18,
+        "taskinterval": "Daily",
+        "userid": "LSF0018"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "No bills to be entertained without Gate Entry",
+        "taskdate": "2023-01-10",
+        "taskid": 19,
+        "taskinterval": "Daily",
+        "userid": "LSF0018"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Calibration of Weighing Machines on Daily Basis",
+        "taskdate": "2023-01-10",
+        "taskid": 20,
+        "taskinterval": "Daily",
+        "userid": "LSF0018"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0019":{
+    "personalinfo":{
+      "dp": "NA",
+      "email": "stores.bahalgarhunit@gmail.com",
+      "firstname": "KRISHAN",
+      "lastname": "-",
+      "password": "1234",
+      "position": "-",
+      "user": "LSF0019"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Machine to be run as per Production Plan also as per our need",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0019"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation on Autonomous Sheet manually on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0019"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Stock take audit bimonthly",
+        "taskdate": "2023-01-02",
+        "taskid": 3,
+        "taskinterval": "Monthly",
+        "userid": "LSF0019"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Godown transfer entry to be done in tally in daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0019"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Seggregation of RM, Scrap and Mix masala",
+        "taskdate": "2023-01-10",
+        "taskid": 5,
+        "taskinterval": "Daily",
+        "userid": "LSF0019"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Ensuring the machine is cleaned in evening on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF0019"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Regular inspection in daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 7,
+        "taskinterval": "Daily",
+        "userid": "LSF0019"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of any rework/deviation in SOP",
+        "taskdate": "2023-01-10",
+        "taskid": 8,
+        "taskinterval": "Daily",
+        "userid": "LSF0019"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Calibration of Weighing Machines on Daily Basis",
+        "taskdate": "2023-01-10",
+        "taskid": 9,
+        "taskinterval": "Daily",
+        "userid": "LSF0019"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0020":{
+    "personalinfo":{
+      "dp": "NA",
+      "email": "stores.bahalgarhunit@gmail.com",
+      "firstname": "SRIRAM",
+      "lastname": "-",
+      "password": "1234",
+      "position": "-",
+      "user": "LSF0020"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Issue RM in packing/export (Actual as well as in Tally)",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0020"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "ETO loading on daily basis as well as updation of the same on Google sheet",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0020"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Branch out to be done on Daily Basis as well as rate verification while doing Branch Out as well as updation in Google sheet",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0020"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Stock take audit bimonthly",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0020"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0021":{
+    "personalinfo":{
+      "dp": "NA",
+      "email": "stores.bahalgarhunit@gmail.com",
+      "firstname": "ARVIND",
+      "lastname": "-",
+      "password": "1234",
+      "position": "",
+      "user": "LSF0021"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Planning of all dispatches which we do in Bulk",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0021"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Planning of all goods to be dispatched to Nagaur",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0021"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Vehicle Loading as well as loading of all Bulk Dispatches",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0021"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Return slip as well as updation of the same in Tally",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0021"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Goods to be taken from cleaning department as well Grinding Department and accepting the same in Tally",
+        "taskdate": "2023-01-10",
+        "taskid": 5,
+        "taskinterval": "Daily",
+        "userid": "LSF0021"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Old Days stock to be used and updation in Google Drive ",
+        "taskdate": "2023-01-10",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF0021"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "List of items whose ETO expired ",
+        "taskdate": "2023-01-10",
+        "taskid": 7,
+        "taskinterval": "Daily",
+        "userid": "LSF0021"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Branch Transfer In of all the Branch Out on Daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 8,
+        "taskinterval": "Daily",
+        "userid": "LSF0021"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0022":{
+    "personalinfo":{
+      "dp": "NA",
+      "email": "stores.bahalgarhunit@gmail.com",
+      "firstname": "RAHUL",
+      "lastname": "-",
+      "password": "1234",
+      "position": "-",
+      "user": "LSF0022"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Tracking of RTV on Daily Basis from Gate Entry",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0022"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Transfer of RTV related to 395 on Daily Basis",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0022"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Scrap Material to be received from Cleaned Material also entering the same in Tally",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0022"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation on RTV Google Sheet on Daily Basis",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0022"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Weekly updation on scrap sheet with Akash and Sanjeev Ji",
+        "taskdate": "2023-01-02",
+        "taskid": 5,
+        "taskinterval": "Weekly",
+        "userid": "LSF0022"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation on RTV Tracking Sheet",
+        "taskdate": "2023-01-10",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF0022"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Opening the manufacturing entries of RTV boxes in Tally",
+        "taskdate": "2023-01-10",
+        "taskid": 7,
+        "taskinterval": "Daily",
+        "userid": "LSF0022"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Scrap sales detail and RTV sales Details to be prepared",
+        "taskdate": "2023-01-02",
+        "taskid": 8,
+        "taskinterval": "Weekly",
+        "userid": "LSF0022"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "The Scrap which needs to be sent to khari Baoli that needs to be prepared",
+        "taskdate": "2023-01-02",
+        "taskid": 9,
+        "taskinterval": "Weekly",
+        "userid": "LSF0022"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Gur Planning to as well as Raw material to be given for packing",
+        "taskdate": "2023-01-10",
+        "taskid": 10,
+        "taskinterval": "Daily",
+        "userid": "LSF0022"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Stickers for Gur Packing",
+        "taskdate": "2023-01-10",
+        "taskid": 11,
+        "taskinterval": "Daily",
+        "userid": "LSF0022"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Detail of all stock which are opened and received from FG",
+        "taskdate": "2023-01-02",
+        "taskid": 12,
+        "taskinterval": "Weekly",
+        "userid": "LSF0022"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0023":{
+    "personalinfo":{
+      "dp": "NA",
+      "email": "export.bahalgarh@chukde.in",
+      "firstname": "Vicky",
+      "lastname": "-",
+      "password": "1234",
+      "position": "Export Packing",
+      "user": "LSF0023"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Weekly plan to be prepared",
+        "taskdate": "2023-01-02",
+        "taskid": 1,
+        "taskinterval": "Weekly",
+        "userid": "LSF0023"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Share the deviation report",
+        "taskdate": "2023-01-02",
+        "taskid": 2,
+        "taskinterval": "Weekly",
+        "userid": "LSF0023"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Passing on Production entries in Tally",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0023"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "BOM creation and alteration",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0023"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Punching of MRN in unique Tally",
+        "taskdate": "2023-01-10",
+        "taskid": 5,
+        "taskinterval": "Daily",
+        "userid": "LSF0023"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Punching of Google Sheets (Export Packing/Order to Dispatch/PO Tracking/Heavy Labour)",
+        "taskdate": "2023-01-10",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF0023"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Leftover item mail after container Dispatch",
+        "taskdate": "2023-01-10",
+        "taskid": 7,
+        "taskinterval": "Daily",
+        "userid": "LSF0023"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Uploading on Whatsapp group of Container Pictures",
+        "taskdate": "2023-01-10",
+        "taskid": 8,
+        "taskinterval": "Daily",
+        "userid": "LSF0023"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Issues related to PO needs to be updated",
+        "taskdate": "2023-01-10",
+        "taskid": 9,
+        "taskinterval": "Daily",
+        "userid": "LSF0023"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation on all negative stocks in Daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 10,
+        "taskinterval": "Daily",
+        "userid": "LSF0023"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Container Dispatch and Mundka Dispatch",
+        "taskdate": "2023-01-10",
+        "taskid": 11,
+        "taskinterval": "Daily",
+        "userid": "LSF0023"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0024":{
+    "personalinfo":{
+      "dp": "NA",
+      "email": "export.bahalgarh@chukde.in",
+      "firstname": "Ajay",
+      "lastname": "-",
+      "password": "1234",
+      "position": "Export Packing",
+      "user": "LSF0024"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Planning of all materials as per Full Kitting",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0024"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Stock Take audit bimonthly",
+        "taskdate": "2023-01-02",
+        "taskid": 2,
+        "taskinterval": "Monthly",
+        "userid": "LSF0024"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Uncleaned pouches to be cleaned and sent back",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0024"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Return of all raw materials and Packing materials to stores dept",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0024"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Samples to be prepared for Phyto and exhibition",
+        "taskdate": "2023-01-10",
+        "taskid": 5,
+        "taskinterval": "Daily",
+        "userid": "LSF0024"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "All issues related to Full Kitting and customer instruction sheet needs to be updated",
+        "taskdate": "2023-01-10",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF0024"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Report of Rework and deviation on SOP on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 7,
+        "taskinterval": "Daily",
+        "userid": "LSF0024"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Daily updation on sticker and pouch wastage",
+        "taskdate": "2023-01-10",
+        "taskid": 8,
+        "taskinterval": "Daily",
+        "userid": "LSF0024"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0025":{
+    "personalinfo":{
+      "dp": "NA",
+      "email": "export.bahalgarh@chukde.in",
+      "firstname": "Bullet",
+      "lastname": "-",
+      "password": "1234",
+      "position": "Export Packing",
+      "user": "LSF0025"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Manual updation of all details like Item name, SKU, cases finalized, batch no, Gross weight on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0025"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Raw material requirement to be taken from stores as per Planning",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0025"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Image upload of all goods being Packed",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0025"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "FG Audit",
+        "taskdate": "2023-01-02",
+        "taskid": 4,
+        "taskinterval": "Monthly",
+        "userid": "LSF0025"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Mix masala which fell down on floor is being sent to Scrap Godown",
+        "taskdate": "2023-01-10",
+        "taskid": 5,
+        "taskinterval": "Daily",
+        "userid": "LSF0025"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0026":{
+    "personalinfo":{
+      "dp": "NA",
+      "email": "anwarali.chukde@gmail.com",
+      "firstname": "Vikas",
+      "lastname": "-",
+      "password": "1234",
+      "position": "Export Store Department",
+      "user": "LSF0026"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Tally Prodution Manual Cleaning & Grinding",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0026"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Update Manual Cleaning google Sheet and Grinding",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0026"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Vehicle Planning Genrate Branch out to Bahalgarh for Cleaned stock",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0026"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Bulk Dispatch/ RTV Details google sheet",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0026"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Stock Audit (Lehcold Store,S.V.K Cold Store/Vijay Cold Store/Cleaned Basement/Export Packing Material/Final Packing Material/Manual Cleaning",
+        "taskdate": "2023-01-02",
+        "taskid": 5,
+        "taskinterval": "Monthly",
+        "userid": "LSF0026"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "MRN of All Purchase invoice and Branch out Invoice",
+        "taskdate": "2023-01-10",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF0026"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "GMP/GHP sheet update",
+        "taskdate": "2023-01-10",
+        "taskid": 7,
+        "taskinterval": "Daily",
+        "userid": "LSF0026"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation on Rework done on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 8,
+        "taskinterval": "Daily",
+        "userid": "LSF0026"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of deviation in SOP",
+        "taskdate": "2023-01-10",
+        "taskid": 9,
+        "taskinterval": "Daily",
+        "userid": "LSF0026"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of Google Sheets (Purchase FMS/30 days sheet/Cold storage Sheet)",
+        "taskdate": "2023-01-10",
+        "taskid": 10,
+        "taskinterval": "Daily",
+        "userid": "LSF0026"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Heavy Labour Sheet updation",
+        "taskdate": "2023-01-10",
+        "taskid": 11,
+        "taskinterval": "Daily",
+        "userid": "LSF0026"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Packing Material Stock correctly sending on 5th of every month",
+        "taskdate": "2023-01-05",
+        "taskid": 12,
+        "taskinterval": "Monthly",
+        "userid": "LSF0026"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Stock of Ink Cartridges",
+        "taskdate": "2023-01-10",
+        "taskid": 13,
+        "taskinterval": "Daily",
+        "userid": "LSF0026"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of Labour Attendance Sheet",
+        "taskdate": "2023-01-10",
+        "taskid": 14,
+        "taskinterval": "Daily",
+        "userid": "LSF0026"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0027":{
+    "personalinfo":{
+      "dp": "NA",
+      "email": "anwarali.chukde@gmail.com",
+      "firstname": "Naveen",
+      "lastname": "-",
+      "password": "1234",
+      "position": "Production Ex Department",
+      "user": "LSF0027"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Tally Production Manual Packing and Machine Packing",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0027"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Update Manual Packing and Machine Packing google Sheet",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0027"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Planning Of Dometic Printing",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0027"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Planning Of Manual Packing and Machine Packing",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0027"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "planning of Dispatch with Ankit and Angad",
+        "taskdate": "2023-01-10",
+        "taskid": 5,
+        "taskinterval": "Daily",
+        "userid": "LSF0027"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Planning of Export manual Packing",
+        "taskdate": "2023-01-10",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF0027"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Update 30 days old Stock google Sheet",
+        "taskdate": "2023-01-10",
+        "taskid": 7,
+        "taskinterval": "Daily",
+        "userid": "LSF0027"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Stock Audit Packing godown and finished goods",
+        "taskdate": "2023-01-02",
+        "taskid": 8,
+        "taskinterval": "Monthly",
+        "userid": "LSF0027"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "GMP/GHP sheet update",
+        "taskdate": "2023-01-10",
+        "taskid": 9,
+        "taskinterval": "Daily",
+        "userid": "LSF0027"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Calibration of Weighing Balance on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 10,
+        "taskinterval": "Daily",
+        "userid": "LSF0027"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation on Rework done on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 11,
+        "taskinterval": "Daily",
+        "userid": "LSF0027"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of deviation in SOP",
+        "taskdate": "2023-01-10",
+        "taskid": 12,
+        "taskinterval": "Daily",
+        "userid": "LSF0027"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of Google Sheet (Domestic packing planning)",
+        "taskdate": "2023-01-10",
+        "taskid": 13,
+        "taskinterval": "Daily",
+        "userid": "LSF0027"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Heavy Labour Sheet updation",
+        "taskdate": "2023-01-10",
+        "taskid": 14,
+        "taskinterval": "Daily",
+        "userid": "LSF0027"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Forecast of Walmart/PL parties",
+        "taskdate": "2023-01-10",
+        "taskid": 15,
+        "taskinterval": "Daily",
+        "userid": "LSF0027"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of Labour Attendance Sheet",
+        "taskdate": "2023-01-10",
+        "taskid": 16,
+        "taskinterval": "Daily",
+        "userid": "LSF0027"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Details of Daily printing done in production Dept",
+        "taskdate": "2023-01-10",
+        "taskid": 17,
+        "taskinterval": "Daily",
+        "userid": "LSF0027"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Details of Ink consumption and requirement of daily cartridges",
+        "taskdate": "2023-01-10",
+        "taskid": 18,
+        "taskinterval": "Daily",
+        "userid": "LSF0027"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0028":{
+    "personalinfo":{
+      "dp": "na",
+      "email": "anwarali.chukde@gmail.com",
+      "firstname": "Rakesh",
+      "lastname": "-",
+      "password": "1234",
+      "position": "Operator - Production",
+      "user": "LSF0028"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Machine Packing and  Operate Auger filler and Multihead",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0028"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Sticker work of Export packing if no machine Work",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0028"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Dispatch of Export Container",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0028"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "GMP/GHP sheet update",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0028"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Ensuring metal detector is working or not",
+        "taskdate": "2023-01-10",
+        "taskid": 5,
+        "taskinterval": "Daily",
+        "userid": "LSF0028"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation on Rework done on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF0028"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of deviation in SOP",
+        "taskdate": "2023-01-10",
+        "taskid": 7,
+        "taskinterval": "Daily",
+        "userid": "LSF0028"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of Labour Attendance Sheet",
+        "taskdate": "2023-01-10",
+        "taskid": 8,
+        "taskinterval": "Daily",
+        "userid": "LSF0028"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0029":{
+    "personalinfo":{
+      "dp": "NA",
+      "email": "anwarali.chukde@gmail.com",
+      "firstname": "Angad",
+      "lastname": "-",
+      "password": "1234",
+      "position": "Dispatch Ex Department",
+      "user": "LSF0029"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Dispatch all Domestic Party\n",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0029"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Update heavy labour Sheet",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0029"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "GMP/GHP sheet update",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0029"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Stock handling Finised goods",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0029"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation on Rework done on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 5,
+        "taskinterval": "Daily",
+        "userid": "LSF0029"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of deviation in SOP",
+        "taskdate": "2023-01-10",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF0029"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of Labour Attendance Sheet",
+        "taskdate": "2023-01-10",
+        "taskid": 7,
+        "taskinterval": "Daily",
+        "userid": "LSF0029"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0030":{
+    "personalinfo":{
+      "dp": "NA",
+      "email": "anwarali.chukde@gmail.com",
+      "firstname": "Vikas",
+      "lastname": "-",
+      "password": "1234",
+      "position": "Production Export Department",
+      "user": "LSF0030"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Macking Design on corel Draw",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0030"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Planning of All export Pouch screen Printing trough fullkiting sheet",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0030"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Cordinate with client owner regarding Screen Printing Issue  for Update Instruction sheet",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0030"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "GMP/GHP sheet update",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0030"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Update Screen Printing google Sheet",
+        "taskdate": "2023-01-10",
+        "taskid": 5,
+        "taskinterval": "Daily",
+        "userid": "LSF0030"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Genrate Invoice to Bahalgarh after Pouch Print",
+        "taskdate": "2023-01-10",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF0030"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation on Rework done on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 7,
+        "taskinterval": "Daily",
+        "userid": "LSF0030"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of deviation in SOP",
+        "taskdate": "2023-01-10",
+        "taskid": 8,
+        "taskinterval": "Daily",
+        "userid": "LSF0030"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of Labour Attendance Sheet",
+        "taskdate": "2023-01-10",
+        "taskid": 9,
+        "taskinterval": "Daily",
+        "userid": "LSF0030"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0031":{
+    "personalinfo":{
+      "dp": "NA",
+      "email": "anwarali.chukde@gmail.com",
+      "firstname": "Ashok",
+      "lastname": "-",
+      "password": "1234",
+      "position": "Operator Production Dept",
+      "user": "LSF0031"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Macking Design on Screen Printing Frame",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0031"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Operate Screen Printing Machine",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0031"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation on Rework done on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0031"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of deviation in SOP",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0031"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of Labour Attendance Sheet",
+        "taskdate": "2023-01-10",
+        "taskid": 5,
+        "taskinterval": "Daily",
+        "userid": "LSF0031"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0032":{
+    "personalinfo":{
+      "dp": "na",
+      "email": "anwarali.chukde@gmail.com",
+      "firstname": "Uttam",
+      "lastname": "-",
+      "password": "1234",
+      "position": "Production Ex Dept",
+      "user": "LSF0032"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Tally Production Organic Manual Packing and Cleaning",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0032"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Update Organic Manual Packing and Cleaning   google Sheet",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0032"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Planning of Organic Packing",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0032"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Container Dispatch of all organic",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0032"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Sticker work of All organic Product",
+        "taskdate": "2023-01-10",
+        "taskid": 5,
+        "taskinterval": "Daily",
+        "userid": "LSF0032"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Update 30 days old Stock google Sheet Unique Fragrances",
+        "taskdate": "2023-01-10",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF0032"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Stock Handling Packing godown in Unique Fragrances",
+        "taskdate": "2023-01-10",
+        "taskid": 7,
+        "taskinterval": "Daily",
+        "userid": "LSF0032"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "GMP/GHP sheet update",
+        "taskdate": "2023-01-10",
+        "taskid": 8,
+        "taskinterval": "Daily",
+        "userid": "LSF0032"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Sampling of All Organic Raw Material",
+        "taskdate": "2023-01-10",
+        "taskid": 9,
+        "taskinterval": "Daily",
+        "userid": "LSF0032"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Arrange Packing Material for Organic as per Order",
+        "taskdate": "2023-01-10",
+        "taskid": 10,
+        "taskinterval": "Daily",
+        "userid": "LSF0032"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation on Rework done on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 11,
+        "taskinterval": "Daily",
+        "userid": "LSF0032"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of deviation in SOP",
+        "taskdate": "2023-01-10",
+        "taskid": 12,
+        "taskinterval": "Daily",
+        "userid": "LSF0032"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of Labour Attendance Sheet",
+        "taskdate": "2023-01-10",
+        "taskid": 13,
+        "taskinterval": "Daily",
+        "userid": "LSF0032"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0033":{
+    "personalinfo":{
+      "dp": "na",
+      "email": "anwarali.chukde@gmail.com",
+      "firstname": "Ankit",
+      "lastname": "-",
+      "password": "1234",
+      "position": "Sales Coordinator- Production Dept",
+      "user": "LSF0033"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Domestic Dispatch Planing with Production team",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0033"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Genrate all tax Invoice and Ewaybill",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0033"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Cordination to Sales team Regarding Dispatch and Order",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0033"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Appoinment for dispatch with Party",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0033"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Issue Debit Note and Credite Note after received RTV",
+        "taskdate": "2023-01-10",
+        "taskid": 5,
+        "taskinterval": "Daily",
+        "userid": "LSF0033"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Update RTV FMS and New order to Collection google Sheet",
+        "taskdate": "2023-01-10",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF0033"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation on Rework done on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 7,
+        "taskinterval": "Daily",
+        "userid": "LSF0033"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of deviation in SOP",
+        "taskdate": "2023-01-10",
+        "taskid": 8,
+        "taskinterval": "Daily",
+        "userid": "LSF0033"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of GR in timely basis in POD Sheet",
+        "taskdate": "2023-01-10",
+        "taskid": 9,
+        "taskinterval": "Daily",
+        "userid": "LSF0033"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of Labour Attendance Sheet",
+        "taskdate": "2023-01-10",
+        "taskid": 10,
+        "taskinterval": "Daily",
+        "userid": "LSF0033"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0034":{
+    "personalinfo":{
+      "dp": "NA",
+      "email": "anwarali.chukde@gmail.com",
+      "firstname": "Sanjay",
+      "lastname": "Gupta",
+      "password": "1234",
+      "position": "Production Dept Operator",
+      "user": "LSF0034"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Handling Manual Cleaning",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0034"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Pouch open and Macking Manual Details of RTV",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0034"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Handling Grinding Porduction Chilli Flax",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0034"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Bulk Dispatch",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0034"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "GMP/GHP sheet update",
+        "taskdate": "2023-01-10",
+        "taskid": 5,
+        "taskinterval": "Daily",
+        "userid": "LSF0034"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation on Rework done on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF0034"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of deviation in SOP",
+        "taskdate": "2023-01-10",
+        "taskid": 7,
+        "taskinterval": "Daily",
+        "userid": "LSF0034"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updation of Labour Attendance Sheet",
+        "taskdate": "2023-01-10",
+        "taskid": 8,
+        "taskinterval": "Daily",
+        "userid": "LSF0034"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0035":{
+    "personalinfo":{
+      "dp": "NA",
+      "email": "dispatch@chukde.in",
+      "firstname": "Santosh",
+      "lastname": "-",
+      "password": "1234",
+      "position": "Dispatch",
+      "user": "LSF0035"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Update Labour allotment Sheet in daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0035"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Update on Manjesh Ji review Google Sheet on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0035"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Update on SS Query Google Sheet of GT on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0035"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Daily dispatch Plan",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0035"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Update on stocks older than 45 days",
+        "taskdate": "2023-01-10",
+        "taskid": 5,
+        "taskinterval": "Daily",
+        "userid": "LSF0035"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Details of Dry fruit and Hing stock on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF0035"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Monthly evaluation sheet for Rack tracking for Under utilization and over utilization",
+        "taskdate": "2023-01-10",
+        "taskid": 7,
+        "taskinterval": "Daily",
+        "userid": "LSF0035"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0036":{
+    "personalinfo":{
+      "dp": "NA",
+      "email": "dispatch@chukde.in",
+      "firstname": "Rajesh",
+      "lastname": "-",
+      "password": "1234",
+      "position": "Dispatch",
+      "user": "LSF0036"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Update on Heavy Labour Sheet on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0036"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Update on Google Sheet (old days stock summary) 45 days",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0036"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Reprinting of MRP change or 30-45 days excess R/MRP changes",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0036"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Details of Weekly negative consumption in Tally",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0036"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Stock Take/Audit",
+        "taskdate": "2023-01-10",
+        "taskid": 5,
+        "taskinterval": "Daily",
+        "userid": "LSF0036"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Details of Weekly consumptions of Cartons",
+        "taskdate": "2023-01-10",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF0036"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0037":{
+    "personalinfo":{
+      "dp": "NA",
+      "email": "dispatch@chukde.in",
+      "firstname": "Raunak",
+      "lastname": "-",
+      "password": "1234",
+      "position": "-",
+      "user": "LSF0037"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Alignment of Goods as per Dispatch Plan",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0037"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0038":{
+    "personalinfo":{
+      "dp": "na",
+      "email": "dispatch@chukde.in",
+      "firstname": "Shiyaram",
+      "lastname": "-",
+      "password": "1234",
+      "position": "-",
+      "user": "LSF0038"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Alignment of Goods as per Dispatch Plan",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0038"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0039":{
+    "personalinfo":{
+      "dp": "na",
+      "email": "mis@chukde.in",
+      "firstname": "Praveen",
+      "lastname": "-",
+      "password": "1234",
+      "position": "Accounts",
+      "user": "LSF0039"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Entering all Purchase Bills as per SOP designed",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Day book updation on daily basis",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Credit Note updation of all Modern trade parties",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Preparing all tax orders related to unique fragrances dispatches",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Preparing all invoices related to Scrap Sales",
+        "taskdate": "2023-01-10",
+        "taskid": 5,
+        "taskinterval": "Daily",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Scanning all purchase invoices and uploading to Google Drive",
+        "taskdate": "2023-01-10",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Updating of all recharges related to own vehicles",
+        "taskdate": "2023-01-10",
+        "taskid": 7,
+        "taskinterval": "Daily",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Filling of Entry e-vehicle challan for Uttar Pradesh",
+        "taskdate": "2023-01-10",
+        "taskid": 8,
+        "taskinterval": "Daily",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "PAY MOBILE BILL NEERAJ SHARMA :- 8930007494",
+        "taskdate": "2023-01-12",
+        "taskid": 9,
+        "taskinterval": "Monthly",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "\"PAY MOBILE BILL PARVEEN KUMAR:- 9034941686\t\"",
+        "taskdate": "2023-01-12",
+        "taskid": 10,
+        "taskinterval": "Monthly",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Scrap Challan on the 1st of every month",
+        "taskdate": "2023-01-01",
+        "taskid": 11,
+        "taskinterval": "Monthly",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Monthly Report of HSN code of all the items purchased from dfferent vendors",
+        "taskdate": "2023-01-02",
+        "taskid": 12,
+        "taskinterval": "Monthly",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Enter the all Purchase Bill in tally of all unit and send to H.O",
+        "taskdate": "2023-01-09",
+        "taskid": 13,
+        "taskinterval": "Daily",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Daily Entry of Imprest account of Vijay Ji / 395",
+        "taskdate": "2023-01-09",
+        "taskid": 14,
+        "taskinterval": "Daily",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Entering of all sales Invoices",
+        "taskdate": "2023-01-09",
+        "taskid": 15,
+        "taskinterval": "Daily",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Entering of Credit Note of Modern Trade Parties by mentioning the corresponding invoice no.",
+        "taskdate": "2023-01-09",
+        "taskid": 16,
+        "taskinterval": "Daily",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Daily entry of Transporters details as well as PO no. in sales invoices",
+        "taskdate": "2023-01-09",
+        "taskid": 17,
+        "taskinterval": "Daily",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Weekly preparation of record of Gate entry Vs MRN booking",
+        "taskdate": "2023-01-20",
+        "taskid": 18,
+        "taskinterval": "Weekly",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Weekly Report of Pending MRN whose purchase have not been booked",
+        "taskdate": "2023-01-16",
+        "taskid": 19,
+        "taskinterval": "Weekly",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Generation of report between Invoice raised and order made party wise.",
+        "taskdate": "2023-01-16",
+        "taskid": 20,
+        "taskinterval": "Weekly",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Weekly updation of Purchase Invoice In Which LSF Purchase Order in Not Mention",
+        "taskdate": "2023-01-14",
+        "taskid": 21,
+        "taskinterval": "Weekly",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Weekly Updation of all the purchase invoices with corresponding E-way Bill no on the same",
+        "taskdate": "2023-01-14",
+        "taskid": 22,
+        "taskinterval": "Weekly",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Report of Production entry pending at the time of making Invoices in 395 as well as 508 to be shared with manjesh sir and vikram sir on every saturday",
+        "taskdate": "2023-01-14",
+        "taskid": 23,
+        "taskinterval": "Weekly",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Previous month sale bill cancelled and its detail with reasons",
+        "taskdate": "2023-01-14",
+        "taskid": 24,
+        "taskinterval": "Weekly",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Weekly Review of all the invoices made and if any anomalies observed",
+        "taskdate": "2023-01-12",
+        "taskid": 25,
+        "taskinterval": "Weekly",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Weekly Report of all items purchased rate with previous purchase rate",
+        "taskdate": "2023-01-10",
+        "taskid": 26,
+        "taskinterval": "Weekly",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Weekly Comparison of all PO raised and its previous order rate",
+        "taskdate": "2023-01-11",
+        "taskid": 27,
+        "taskinterval": "Weekly",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "PAY MOBILE BILL GAURAV SAXENA:- 7906692077",
+        "taskdate": "2022-04-20",
+        "taskid": 28,
+        "taskinterval": "Quaterly",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "PAY MOBILE BILL PRAFULL THAKUR:- 9911798523",
+        "taskdate": "2022-04-20",
+        "taskid": 29,
+        "taskinterval": "Quaterly",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "PAY MOBILE BILL ANIL KUMAR :- 9992007514",
+        "taskdate": "2022-04-20",
+        "taskid": 30,
+        "taskinterval": "Quaterly",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Daily Entry of Corporation Bank",
+        "taskdate": "2023-01-14",
+        "taskid": 31,
+        "taskinterval": "Fortnightly",
+        "userid": "LSF0039"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "submit the form of all the  market committee receipts being received from spices vendor",
+        "taskdate": "2023-01-13",
+        "taskid": 32,
+        "taskinterval": "Weekly",
+        "userid": "LSF0039"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0040":{
+    "personalinfo": {
+      "dp": "na",
+      "email": "mis@chukde.in",
+      "firstname": "Neeraj",
+      "lastname": "Bhatt",
+      "password": "1234",
+      "position": "Accounts",
+      "user": "LSF0040"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Appointments confirmation from Modern Trade clients",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0040"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Sharing Dispatch Plan made on daily basis to Production Dept.",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0040"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0041":{
+    "personalinfo":{
+      "dp": "NA",
+      "email": "mittin.billa@chukde.in",
+      "firstname": "Anisha",
+      "lastname": "Srivastav",
+      "password": "8563",
+      "position": "Quality Dept",
+      "user": "LSF0041"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Documentation (In Process related/Grinding/Logbooks/Report submission/RM & PM samplings and logbooks)",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0041"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "GMP/GHP(RM/PM/PROCESS/GRINDING/ETO/ADMIN)",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0041"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "RM/PM samplings and Data Updation",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0041"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "COA preparation (Export & client specific)",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0041"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Export Packing monitoring & Sticker approval",
+        "taskdate": "2023-01-10",
+        "taskid": 5,
+        "taskinterval": "Daily",
+        "userid": "LSF0041"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "New Product / Process Initiatives",
+        "taskdate": "2023-01-10",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF0041"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Art work verification & Approval",
+        "taskdate": "2023-01-10",
+        "taskid": 7,
+        "taskinterval": "Daily",
+        "userid": "LSF0041"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Audit specific documentation",
+        "taskdate": "2023-01-10",
+        "taskid": 8,
+        "taskinterval": "Daily",
+        "userid": "LSF0041"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Sensory Evaluation",
+        "taskdate": "2023-01-10",
+        "taskid": 9,
+        "taskinterval": "Daily",
+        "userid": "LSF0041"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Onsite Training & Training checklist Updation",
+        "taskdate": "2023-01-10",
+        "taskid": 10,
+        "taskinterval": "Daily",
+        "userid": "LSF0041"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Shelf life study data Updation",
+        "taskdate": "2023-01-10",
+        "taskid": 11,
+        "taskinterval": "Daily",
+        "userid": "LSF0041"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Client onsite Audits coordination & execution",
+        "taskdate": "2023-01-10",
+        "taskid": 12,
+        "taskinterval": "Daily",
+        "userid": "LSF0041"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Client specific document compilation & coordination",
+        "taskdate": "2023-01-10",
+        "taskid": 13,
+        "taskinterval": "Daily",
+        "userid": "LSF0041"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Pre Purchase sample analysis & Report submission",
+        "taskdate": "2023-01-10",
+        "taskid": 14,
+        "taskinterval": "Daily",
+        "userid": "LSF0041"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Third Party development & Market Sample Analysis",
+        "taskdate": "2023-01-10",
+        "taskid": 15,
+        "taskinterval": "Daily",
+        "userid": "LSF0041"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "SID application related data sourcing, compilation & coordination for application processing",
+        "taskdate": "2023-01-10",
+        "taskid": 16,
+        "taskinterval": "Daily",
+        "userid": "LSF0041"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0042":{
+    "personalinfo":{
+      "dp": "na",
+      "email": "mittin.billa@chukde.in",
+      "firstname": "Vibha",
+      "lastname": "Dwivedi",
+      "password": "4585",
+      "position": "Quality Dept",
+      "user": "LSF0042"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Chemical Analysis and Data Updation",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0042"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Domestic Packing Monitoring & data compilation",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0042"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "RM/PM sampling and Data Updation",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0042"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Result Updation of chemical and micro analysis",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0042"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Complaint samples replacements (Arrangement & Coordination)",
+        "taskdate": "2023-01-10",
+        "taskid": 5,
+        "taskinterval": "Daily",
+        "userid": "LSF0042"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Kesar Packing and Dispatch tracking",
+        "taskdate": "2023-01-10",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF0042"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Sensory Evaluation",
+        "taskdate": "2023-01-10",
+        "taskid": 7,
+        "taskinterval": "Daily",
+        "userid": "LSF0042"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Control sample management (Domestic)",
+        "taskdate": "2023-01-10",
+        "taskid": 8,
+        "taskinterval": "Daily",
+        "userid": "LSF0042"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Onsite Training & Training checklist Updation",
+        "taskdate": "2023-01-10",
+        "taskid": 9,
+        "taskinterval": "Daily",
+        "userid": "LSF0042"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Shelf Life study sample analysis",
+        "taskdate": "2023-01-10",
+        "taskid": 10,
+        "taskinterval": "Daily",
+        "userid": "LSF0042"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "GMP/GHP (Cleaning, ETO, Admin, Printing & Dispatch)",
+        "taskdate": "2023-01-10",
+        "taskid": 11,
+        "taskinterval": "Daily",
+        "userid": "LSF0042"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Manual Cleaning Area monitoring and data compilation",
+        "taskdate": "2023-01-10",
+        "taskid": 12,
+        "taskinterval": "Daily",
+        "userid": "LSF0042"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0043":{
+    "personalinfo":{
+      "dp": "na",
+      "email": "mittin.billa@chukde.in",
+      "firstname": "Amit",
+      "lastname": "Thakur",
+      "password": "2496",
+      "position": "Quality Dept",
+      "user": "LSF0043"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Online inspection of Domestic packing",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0043"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "COA preparation (Domestic)",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0043"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "GMP/GHP (Domestic Pkg Area & Store)",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0043"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Client Specific document preparation & compilation",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0043"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Non Conforming Data compilation & sheet Updation",
+        "taskdate": "2023-01-10",
+        "taskid": 5,
+        "taskinterval": "Daily",
+        "userid": "LSF0043"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Indent of Lab Chemicals / Glassware",
+        "taskdate": "2023-01-10",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF0043"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0044":{
+    "personalinfo":{
+      "dp": "na",
+      "email": "mittin.billa@chukde.in",
+      "firstname": "Deepak",
+      "lastname": "Gulia",
+      "password": "3274",
+      "position": "Quality Dept",
+      "user": "LSF0044"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Online inspection of Domestic packing",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0044"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "COA preparation",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0044"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0045":{
+    "personalinfo":{
+      "dp": "na",
+      "email": "mittin.billa@chukde.in",
+      "firstname": "Abhishek",
+      "lastname": "Srivastav",
+      "password": "4891",
+      "position": "Quality Dept",
+      "user": "LSF0045"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Online Monitoring - 395 (RM/PM sampling & data compilation with logbook)",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0045"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "COA preparation",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0045"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Manual Cleaning Area monitoring & Data Compilation",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0045"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "GMP/GHP (All Areas)",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0045"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Audit Related documentation",
+        "taskdate": "2023-01-10",
+        "taskid": 5,
+        "taskinterval": "Daily",
+        "userid": "LSF0045"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Client and Product specific sticker work verification",
+        "taskdate": "2023-01-10",
+        "taskid": 6,
+        "taskinterval": "Daily",
+        "userid": "LSF0045"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0046":{
+    "personalinfo":{
+      "dp": "na",
+      "email": "mittin.billa@chukde.in",
+      "firstname": "Pooja",
+      "lastname": "Deshwal",
+      "password": "7381",
+      "position": "Quality Dept",
+      "user": "LSF0046"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Export packing and Gur packing monitoring",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0046"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Audit specific documentation & Sticker approval",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0046"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Control sample management (Export)",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0046"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Manual Cleaning Area - Monitoring & Data compiling",
+        "taskdate": "2023-01-10",
+        "taskid": 4,
+        "taskinterval": "Daily",
+        "userid": "LSF0046"
+      }
+    ],
+    "dailytaskstatus":{}
+  },
+  "LSF0047":{
+    "personalinfo":{
+      "dp": "na",
+      "email": "mittin.billa@chukde.in",
+      "firstname": "Rakshankda",
+      "lastname": "Jangra",
+      "password": "9199",
+      "position": "Quality Dept",
+      "user": "LSF0047"
+    },
+    "definedtasks":[
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Micro Biological Testing",
+        "taskdate": "2023-01-10",
+        "taskid": 1,
+        "taskinterval": "Daily",
+        "userid": "LSF0047"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "Data/Result Updation in Google Sheets",
+        "taskdate": "2023-01-10",
+        "taskid": 2,
+        "taskinterval": "Daily",
+        "userid": "LSF0047"
+      },
+      {
+        "remarks": "",
+        "status": "",
+        "task": "GMP/GHP (Lab)",
+        "taskdate": "2023-01-10",
+        "taskid": 3,
+        "taskinterval": "Daily",
+        "userid": "LSF0047"
+      }
+    ],
+    "dailytaskstatus":{}
+  }
+
+}

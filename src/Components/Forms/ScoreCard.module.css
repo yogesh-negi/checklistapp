@@ -1,0 +1,53 @@
+.wrapper {
+    display: grid;
+    background: #4c4c4ffa;
+    height:100vw;
+    padding:1%;
+}
+
+.container {
+    box-sizing: border-box;
+    text-align:center;
+    padding:0% 1%;
+    height:80%;
+    margin-top:5%;
+    width:65%;
+    overflow-y: scroll;
+    color:gold;
+    background-image: linear-gradient(#777,#222);
+    position:fixed;
+    left:15%
+}
+
+.container td {
+    height:3vw;
+    width:10vw;
+}
+
+.container th {
+    height:2rem;
+    background: #777;
+    position: sticky;
+    top:0;
+    color:white;
+    margin-top:1%;
+}
+
+.container th:nth-child(1),.container td:nth-child(1) {
+    text-align: left;
+}
+
+.scoresummary {
+    display: flex;
+    text-align: left;
+    justify-content: space-evenly;
+    max-width:10vw;
+    min-width:20%;
+    flex-wrap: wrap;
+    font-size:2vh;
+    background-color: #25bdef;
+    cursor: pointer;
+    position: fixed;
+    right:10%;
+    top:10%;
+}

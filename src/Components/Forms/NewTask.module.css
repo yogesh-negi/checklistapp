@@ -1,0 +1,44 @@
+.SignupForm {
+display:flex;
+flex-wrap:wrap;
+justify-content: center;
+transform: translate(0,10%);
+}
+
+.form {
+    display: flex column;
+    width:50vw;
+    box-shadow: 0px 10px 50px #4c1c6d;
+    background-image:linear-gradient(#c3aad4,#7e39ad50);
+    padding:2%;
+    overflow: hidden;
+}
+
+.input {
+    position:relative;
+    left:10px;
+    margin:0% 5% 0% 0%;
+}
+
+.submit {
+    height:5vh;
+    font-size:1.2vw;
+    font-weight: bolder;
+    outline:none;
+    border:none;
+    cursor:pointer;
+    width:50%;
+}
+
+.successfullscreen {
+    display:flex column;
+    justify-content: center;
+    text-align: center;
+}
+
+.successfullscreen img {
+    height:20vw;
+    width:auto;
+}
+
+

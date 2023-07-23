@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    width:96%;
+    min-width: 280px;
+    padding:0.5% 2%;
+    background:#7e1acff3;
+    position:sticky;
+    top:0;
+}
+
+.navigator {
+    flex-basis:10vw;
+    padding:0.5% 1%;
+    background:#a68fe0;
+    margin:0 1%;
+    text-align: center;
+    font-size:90%;
+}
+
+.navigator:hover{
+    background: lightblue;
+}
+
